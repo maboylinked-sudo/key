@@ -34,8 +34,8 @@
     "owner" : "mercury",
     "duration" : "LIFETIME"
   },
-  "chams-lifetime-exotic" : {
-    "hwid" : "UNBOUND",
+  "chams-LIFETIME-exotic" : {
+    "hwid" : "7EA65C49",
     "duration" : "5m",
     "owner" : "Test"
   },
