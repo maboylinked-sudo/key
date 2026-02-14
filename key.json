@@ -1,17 +1,17 @@
 {
-  "CHAMS-LIFETIME-MERCURY" : {
-    "hwid" : "UNBOUND",
-    "duration" : "lifetime",
-    "owner" : "Mercury"
-  },
   "CHAMS-LIFETIME-EXOTIC" : {
     "duration" : "Lifetime",
-    "hwid" : "UNBOUND",
+    "hwid" : "4E23C237",
     "owner" : "Exotic"
   },
+  "CHAMS-LIFETIME-MERCURY" : {
+    "duration" : "lifetime",
+    "hwid" : "UNBOUND",
+    "owner" : "Mercury"
+  },
   "MRCAT-TEST" : {
-    "owner" : "MrCat",
+    "hwid" : "UNBOUND",
     "duration" : "3d",
-    "hwid" : "UNBOUND"
+    "owner" : "MrCat"
   }
 }
