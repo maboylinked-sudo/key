@@ -4,10 +4,10 @@
     "owner": "mercury",
     "duration": "LIFETIME"
   },
-  "chams-MONTH-healing": {
+  "test": {
     "hwid": "6CEA8E33-8502-4240-8433-9E3C5F56EB7F",
-    "owner": "healing",
-    "duration": "MONTH"
+    "owner": "Test",
+    "duration": "5m"
   },
   "chams-2MONTH-Uparaq": {
     "hwid": "B7B85A8F-BA7A-4EE5-9F79-F101C1952B80",
