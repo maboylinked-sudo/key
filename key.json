@@ -1,10 +1,12 @@
 {
-  "CHAMS-LIFETIME-EXOTIC": {
-    "hwid": "BLOCKED",
+  "CHAMS-3YEAR-EXOTIC": {
+    "hwid": "7EA65C49",
     "owner": "Exotic",
+    "duration": "1y"
   },
   "TEST-KEY": {
     "hwid": "UNBOUND",
     "owner": "Tester",
+    "duration": "1m"
   }
 }
