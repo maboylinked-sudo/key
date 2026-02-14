@@ -1,5 +1,14 @@
 {
-  "KEY-67": "hi",
-  "KEY-127": "BLOCKED",
-  "EXOTIC-262": "7EA65C49"
+  "KEY-67": {
+    "hwid": "UNBOUND",
+    "owner": "Exotic"
+  },
+  "KEY-127": {
+    "hwid": "BLOCKED",
+    "owner": "BannedUser"
+  },
+  "KEY-262": {
+    "hwid": "7EA65C49",
+    "owner": "Maboy"
+  }
 }
