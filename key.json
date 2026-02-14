@@ -2,11 +2,9 @@
   "CHAMS-LIFETIME-EXOTIC": {
     "hwid": "7EA65C49",
     "owner": "Exotic",
-    "duration": "1y"
   },
   "TEST-KEY": {
     "hwid": "UNBOUND",
     "owner": "Tester",
-    "duration": "1m"
   }
 }
