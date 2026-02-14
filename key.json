@@ -1,52 +1,12 @@
 {
-  "chams-MONTH-Endorphin" : {
-    "hwid" : "8BA61D37-9F81-4250-8A89-487CE07FB1E3",
-    "owner" : "Endorphin",
-    "duration" : "MONTH"
+  "test" : {
+    "hwid" : "UNBOUND",
+    "owner" : "Ohio",
+    "duration" : "1m"
   },
-  "chams-WEEK-7ran" : {
-    "owner" : "7ran",
-    "duration" : "WEEK",
-    "hwid" : "A976DAE1-B636-41E6-B4B9-972275C8782D"
-  },
-  "mercury" : {
-    "hwid" : "723B06A8-84CD-445F-9499-8B8FFCD8B9D5",
-    "duration" : "LIFETIME",
-    "owner" : "mercury"
-  },
-  "chams-MONTH-HeheimMrCat" : {
-    "owner" : "HeheimMrCat",
-    "duration" : "MONTH",
-    "hwid" : "A91116EB-BCA9-4280-B093-819177148FC4"
-  },
-  "chams-WEEK-gala" : {
-    "hwid" : "D04CCB41-0762-4521-B621-EE331CD727E7",
-    "duration" : "WEEK",
-    "owner" : "gala"
-  },
-  "chams-2MONTH-Japan" : {
-    "duration" : "2MONTH",
-    "owner" : "Japan",
-    "hwid" : "DEVICE-ID-PLACEHOLDER"
-  },
-  "?" : {
-    "hwid" : "7EA65C49",
-    "owner" : "mercury",
-    "duration" : "LIFETIME"
-  },
-  "chams-LIFETIME-exotic" : {
-    "hwid" : "7EA65C49",
-    "duration" : "5m",
-    "owner" : "Test"
-  },
-  "chams-2MONTH-Uparaq" : {
-    "owner" : "Uparaq",
-    "hwid" : "B7B85A8F-BA7A-4EE5-9F79-F101C1952B80",
-    "duration" : "2MONTH"
-  },
-  "chams-MONTH-laflame" : {
-    "duration" : "MONTH",
-    "hwid" : "DEVICE-ID-PLACEHOLDER",
-    "owner" : "laflame"
+  "Sigmaboy" : {
+    "hwid" : "UNBOUND",
+    "owner" : "Test",
+    "duration" : "20s"
   }
 }
