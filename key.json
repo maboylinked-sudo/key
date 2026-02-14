@@ -9,9 +9,9 @@
     "duration" : "Lifetime",
     "owner" : "Exotic"
   },
-  "PLACE" : {
+  "CHAMS-MONTH-NEWBIEGAMER" : {
     "hwid" : "UNBOUND",
-    "owner" : "LACE",
-    "duration" : "3d"
+    "owner" : "Newbie-Gamer",
+    "duration" : "1mo"
   }
 }
