@@ -1,17 +1,17 @@
 {
   "CHAMS-LIFETIME-MERCURY" : {
-    "hwid" : "UNBOUND",
+    "duration" : "lifetime",
     "owner" : "Mercury",
-    "duration" : "lifetime"
-  },
-  "PLACE" : {
-    "duration" : "3d",
-    "owner" : "LACE",
-    "hwid" : "UNBOUND"
+    "hwid" : "7EA65C49"
   },
   "CHAMS-LIFETIME-EXOTIC" : {
-    "owner" : "Exotic",
+    "hwid" : "UNBOUND",
     "duration" : "Lifetime",
-    "hwid" : "UNBOUND"
+    "owner" : "Exotic"
+  },
+  "PLACE" : {
+    "hwid" : "UNBOUND",
+    "owner" : "LACE",
+    "duration" : "3d"
   }
 }
