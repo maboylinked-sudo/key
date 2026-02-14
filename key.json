@@ -4,7 +4,7 @@
     "owner": "mercury",
     "duration": "LIFETIME"
   },
-  "test": {
+  "chams-lifetime-exotic": {
     "hwid": "UNBOUND",
     "owner": "Test",
     "duration": "5m"
