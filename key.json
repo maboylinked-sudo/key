@@ -1,17 +1,17 @@
 {
+  "NEWBIEGAMER" : {
+    "owner" : "NewbieGamer",
+    "hwid" : "316F4DF4",
+    "duration" : "29d"
+  },
+  "CHAMS-LIFETIME-EXOTIC" : {
+    "owner" : "Exotic",
+    "duration" : "Lifetime",
+    "hwid" : "UNBOUND"
+  },
   "CHAMS-LIFETIME-MERCURY" : {
     "duration" : "lifetime",
     "owner" : "Mercury",
     "hwid" : "7EA65C49"
-  },
-  "CHAMS-LIFETIME-EXOTIC" : {
-    "hwid" : "UNBOUND",
-    "duration" : "Lifetime",
-    "owner" : "Exotic"
-  },
-  "NEWBIEGAMER" : {
-    "hwid" : "UNBOUND",
-    "owner" : "NewbieGamer",
-    "duration" : "29d"
   }
 }
