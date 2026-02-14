@@ -3,12 +3,12 @@
     "hwid": "UNBOUND",
     "owner": "Exotic"
   },
-  "CHAMS-WEEKLY-SIGMA": {
+  "S": {
     "hwid": "7EA65C49",
     "owner": "Sigma"
   },
-  "MERCURY-PRIVATE-TEST": {
-    "hwid": "UNBOUND",
+  "D6": {
+    "hwid": "BLOCKED",
     "owner": "Tester"
   }
 }
