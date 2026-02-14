@@ -1,12 +1,52 @@
 {
-  "CHAMS-LIFETIME-EXOTIC": {
-    "hwid": "7EA65C49",
-    "owner": "Exotic",
-    "duration": "lifetime"
+  "?": {
+    "hwid": "460BBB13-1062-406C-A013-14C0CBEAA2C3",
+    "owner": "mercury",
+    "duration": "LIFETIME"
   },
-  "CHAMS-LIFETIME-MERCURY": {
-    "hwid": "UNBOUND",
-    "owner": "Mercury",
-    "duration": "lifetime"
+  "chams-MONTH-healing": {
+    "hwid": "6CEA8E33-8502-4240-8433-9E3C5F56EB7F",
+    "owner": "healing",
+    "duration": "MONTH"
+  },
+  "chams-2MONTH-Uparaq": {
+    "hwid": "B7B85A8F-BA7A-4EE5-9F79-F101C1952B80",
+    "owner": "Uparaq",
+    "duration": "2MONTH"
+  },
+  "chams-2MONTH-Japan": {
+    "hwid": "DEVICE-ID-PLACEHOLDER",
+    "owner": "Japan",
+    "duration": "2MONTH"
+  },
+  "chams-MONTH-HeheimMrCat": {
+    "hwid": "A91116EB-BCA9-4280-B093-819177148FC4",
+    "owner": "HeheimMrCat",
+    "duration": "MONTH"
+  },
+  "mercury": {
+    "hwid": "723B06A8-84CD-445F-9499-8B8FFCD8B9D5",
+    "owner": "mercury",
+    "duration": "LIFETIME"
+  },
+  "chams-WEEK-gala": {
+    "hwid": "D04CCB41-0762-4521-B621-EE331CD727E7",
+    "owner": "gala",
+    "duration": "WEEK"
+  },
+  "chams-WEEK-7ran": {
+    "hwid": "A976DAE1-B636-41E6-B4B9-972275C8782D",
+    "owner": "7ran",
+    "duration": "WEEK"
+  },
+  "chams-MONTH-laflame": {
+    "hwid": "DEVICE-ID-PLACEHOLDER",
+    "owner": "laflame",
+    "duration": "MONTH"
+  },
+  "chams-MONTH-Endorphin": {
+    "hwid": "8BA61D37-9F81-4250-8A89-487CE07FB1E3",
+    "owner": "Endorphin",
+    "duration": "MONTH"
   }
 }
