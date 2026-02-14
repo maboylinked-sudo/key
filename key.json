@@ -1,17 +1,17 @@
 {
-  "TEST": {
-    "hwid": "UNBOUND",
-    "owner": "Ohio",
-    "duration": "1m"
+  "TEST" : {
+    "hwid" : "UNBOUND",
+    "duration" : "1m",
+    "owner" : "Ohio"
   },
-  "SIGMABOY": {
-    "hwid": "UNBOUND",
-    "owner": "Test",
-    "duration": "20s"
+  "SIGMABOY" : {
+    "hwid" : "7EA65C49",
+    "owner" : "Test",
+    "duration" : "20s"
   },
-  "MRCAT-TEST": {
-    "hwid": "UNBOUND",
-    "owner": "MrCat",
-    "duration": "3d"
+  "MRCAT-TEST" : {
+    "hwid" : "UNBOUND",
+    "owner" : "MrCat",
+    "duration" : "3d"
   }
 }
