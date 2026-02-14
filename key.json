@@ -9,9 +9,9 @@
     "duration" : "Lifetime",
     "owner" : "Exotic"
   },
-  "CHAMS-MONTH-NEWBIEGAMER" : {
+  "NEWBIEGAMER" : {
     "hwid" : "UNBOUND",
-    "owner" : "Newbie-Gamer",
+    "owner" : "NewbieGamer",
     "duration" : "1mo"
   }
 }
