@@ -4,9 +4,9 @@
     "owner": "Exotic",
     "duration": "lifetime"
   },
-  "TEST-KEY": {
+  "CHAMS-LIFETIME-MERCURY": {
     "hwid": "UNBOUND",
-    "owner": "Tester",
-    "duration": "1m"
+    "owner": "Mercury",
+    "duration": "lifetime"
   }
 }
