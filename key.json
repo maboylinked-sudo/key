@@ -4,19 +4,14 @@
     "owner" : "Mercury",
     "duration" : "lifetime"
   },
-  "TEST" : {
-    "duration" : "1m",
-    "hwid" : "7EA65C49",
-    "owner" : "Exotic"
-  },
-  "MRCAT-TEST" : {
+  "PLACE" : {
     "duration" : "3d",
-    "owner" : "MrCat",
+    "owner" : "LACE",
     "hwid" : "UNBOUND"
   },
   "CHAMS-LIFETIME-EXOTIC" : {
     "owner" : "Exotic",
     "duration" : "Lifetime",
-    "hwid" : "AD7ABA49"
+    "hwid" : "UNBOUND"
   }
 }
