@@ -1,13 +1,13 @@
 {
-  "SIGMABOY" : {
-    "hwid" : "7EA65C49",
-    "duration" : "20s",
-    "owner" : "Test"
+  "CHAMS-LIFETIME-MERCURY" : {
+    "hwid" : "UNBOUND",
+    "duration" : "lifetime",
+    "owner" : "Mercury"
   },
-  "TEST" : {
-    "duration" : "1m",
-    "hwid" : "7EA65C49",
-    "owner" : "Ohio"
+  "CHAMS-LIFETIME-EXOTIC" : {
+    "duration" : "Lifetime",
+    "hwid" : "UNBOUND",
+    "owner" : "Exotic"
   },
   "MRCAT-TEST" : {
     "owner" : "MrCat",
