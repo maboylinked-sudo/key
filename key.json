@@ -1,22 +1,22 @@
 {
-  "MRCAT-TEST" : {
-    "duration" : "3d",
-    "owner" : "MrCat",
-    "hwid" : "UNBOUND"
-  },
   "CHAMS-LIFETIME-MERCURY" : {
+    "duration" : "lifetime",
+    "hwid" : "7EA65C49",
+    "owner" : "Mercury"
+  },
+  "MRCAT-TEST" : {
     "hwid" : "UNBOUND",
-    "owner" : "Mercury",
-    "duration" : "lifetime"
+    "duration" : "3d",
+    "owner" : "MrCat"
+  },
+  "TEST" : {
+    "hwid" : "UNBOUND",
+    "duration" : "1m",
+    "owner" : "Exotic"
   },
   "CHAMS-LIFETIME-EXOTIC" : {
-    "duration" : "Lifetime",
+    "hwid" : "UNBOUND",
     "owner" : "Exotic",
-    "hwid" : "UNBOUND"
-      },
-  "TEST" : {
-    "duration" : "1m",
-    "owner" : "Exotic",
-    "hwid" : "UNBOUND"
+    "duration" : "Lifetime"
   }
 }
