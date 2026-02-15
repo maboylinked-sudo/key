@@ -14,8 +14,8 @@
     "owner" : "Mercury",
     "duration" : "lifetime"
   },
-  "TEST1" : {
-    "duration" : "1m",
+  "TESTT" : {
+    "duration" : "2m",
     "owner" : "Exotic",
     "hwid" : "7EA65C49"
   }
