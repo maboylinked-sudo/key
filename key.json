@@ -1,7 +1,7 @@
 {
   "CHAMS-LIFETIME-MERCURY" : {
     "owner" : "Mercury",
-    "hwid" : "7EA65C49",
+    "hwid" : "UNBOUND",
     "duration" : "lifetime"
   },
   "NEWBIEGAMER" : {
@@ -15,7 +15,7 @@
     "owner" : "Exotic"
   },
   "TEST" : {
-    "hwid" : "BLOCKED",
+    "hwid" : "UNBOUND",
     "owner" : "Exotic",
     "duration" : "1h"
   }
