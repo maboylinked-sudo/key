@@ -14,9 +14,9 @@
     "owner" : "Mercury",
     "duration" : "lifetime"
   },
-  "TESTT" : {
-    "duration" : "2m",
-    "owner" : "Exotic",
-    "hwid" : "7EA65C49"
+  "TESTKEY" : {
+    "duration" : "10m",
+    "owner" : "Skibidi Toilet",
+    "hwid" : "UNBOUND"
   }
 }
