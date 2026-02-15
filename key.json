@@ -1,22 +1,22 @@
 {
-  "TESTKEY" : {
-    "hwid" : "UNBOUND",
-    "duration" : "1h",
-    "owner" : "Skibidi Toilet"
+  "CHAMS-LIFETIME-EXOTIC" : {
+    "owner" : "Exotic",
+    "duration" : "Lifetime",
+    "hwid" : "UNBOUND"
   },
   "NEWBIEGAMER" : {
     "hwid" : "UNBOUND",
-    "duration" : "29d",
-    "owner" : "NewbieGamer"
-  },
-  "CHAMS-LIFETIME-EXOTIC" : {
-    "hwid" : "UNBOUND",
-    "owner" : "Exotic",
-    "duration" : "Lifetime"
+    "owner" : "NewbieGamer",
+    "duration" : "29d"
   },
   "CHAMS-LIFETIME-MERCURY" : {
     "hwid" : "UNBOUND",
     "owner" : "Mercury",
     "duration" : "lifetime"
+  },
+  "TESTKEY" : {
+    "hwid" : "7EA65C49",
+    "duration" : "1h",
+    "owner" : "Skibidi Toilet"
   }
 }
