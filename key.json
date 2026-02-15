@@ -11,7 +11,12 @@
   },
   "NEWBIEGAMER" : {
     "owner" : "NewbieGamer",
-    "hwid" : "316F4DF4",
+    "hwid" : "UNBOUND",
     "duration" : "29d"
+  },
+    "TEST" : {
+    "hwid" : "UNBOUND",
+    "owner" : "Exotic",
+    "duration" : "1h"
   }
 }
