@@ -1,7 +1,7 @@
 {
-  "TEST" : {
+  "TEST1" : {
     "duration" : "1m",
-    "hwid" : "7EA65C49",
+    "hwid" : "UNBOUND",
     "owner" : "Exotic"
   },
   "CHAMS-LIFETIME-EXOTIC" : {
