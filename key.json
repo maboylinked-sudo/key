@@ -1,8 +1,8 @@
 {
-  "TESTKEY" : {
+  "T" : {
     "hwid" : "7EA65C49",
     "owner" : "Skibidi Toilet",
-    "duration" : "1h"
+    "duration" : "67D"
   },
   "NEWBIEGAMER" : {
     "hwid" : "UNBOUND",
@@ -10,7 +10,7 @@
     "owner" : "NewbieGamer"
   },
   "CHAMS-LIFETIME-EXOTIC" : {
-    "hwid" : "17871A38",
+    "hwid" : "7EA65C49",
     "duration" : "Lifetime",
     "owner" : "Exotic"
   },
