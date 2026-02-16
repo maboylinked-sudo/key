@@ -5,7 +5,7 @@
     "hwid" : "UNBOUND"
   },
   "T" : {
-    "hwid" : "7EA65C49",
+    "hwid" : "UNBOUND",
     "owner" : "Skibidi Toilet",
     "duration" : "67D"
   },
@@ -14,9 +14,9 @@
     "duration" : "Lifetime",
     "hwid" : "7EA65C49"
   },
-  "NEWBIEGAMER" : {
+  "TEST" : {
     "duration" : "29d",
-    "owner" : "NewbieGamer",
+    "owner" : "TEST",
     "hwid" : "UNBOUND"
   }
 }
