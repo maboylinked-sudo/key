@@ -1,22 +1,22 @@
 {
+  "CHAMS-LIFETIME-MERCURY" : {
+    "duration" : "lifetime",
+    "hwid" : "UNBOUND",
+    "owner" : "Mercury"
+  },
   "T" : {
     "duration" : "67D",
-    "hwid" : "UNBOUND",
-    "owner" : "Skibidi Toilet"
+    "owner" : "Skibidi Toilet",
+    "hwid" : "7EA65C49"
   },
   "CHAMS-LIFETIME-EXOTIC" : {
-    "hwid" : "7EA65C49",
     "owner" : "Exotic",
+    "hwid" : "7EA65C49",
     "duration" : "Lifetime"
   },
   "TEST" : {
-    "hwid" : "25F4F925",
     "duration" : "29d",
+    "hwid" : "25F4F925",
     "owner" : "TEST"
-  },
-  "CHAMS-LIFETIME-MERCURY" : {
-    "hwid" : "UNBOUND",
-    "owner" : "Mercury",
-    "duration" : "lifetime"
   }
 }
