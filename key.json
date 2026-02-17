@@ -1,7 +1,7 @@
 {
   "CHAMS-LIFETIME-MERCURY" : {
-    "hwid" : "UNBOUND",
     "duration" : "lifetime",
+    "hwid" : "UNBOUND",
     "owner" : "Mercury"
   },
   "CHAMS-LIFETIME-EXOTIC" : {
@@ -10,13 +10,13 @@
     "owner" : "Exotic"
   },
   "TEST" : {
-    "hwid" : "UNBOUND",
+    "duration" : "29d",
     "owner" : "TEST",
-    "duration" : "29d"
+    "hwid" : "3B89A320"
   },
   "T" : {
-    "hwid" : "UNBOUND",
     "duration" : "67D",
-    "owner" : "Skibidi Toilet"
+    "owner" : "Skibidi Toilet",
+    "hwid" : "UNBOUND"
   }
 }
