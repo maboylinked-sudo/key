@@ -14,8 +14,8 @@
     "hwid" : "0C441215",
     "owner" : "TEST"
   },
-  "CHAMS-LIFETIME-EXOTIC" : {
-    "hwid" : "7EA65C49",
+  "LIFETIME-EXOTIC" : {
+    "hwid" : "UNBOUND",
     "duration" : "Lifetime",
     "owner" : "Exotic"
   }
