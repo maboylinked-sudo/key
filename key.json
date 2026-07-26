@@ -1,18 +1,18 @@
 {
   "CHAMS-LIFETIME-MERCURY" : {
-    "hwid" : "UNBOUND",
     "duration" : "lifetime",
+    "hwid" : "UNBOUND",
     "owner" : "Mercury"
   },
   "LIFETIME-EXOTIC" : {
-    "owner" : "KingExotic",
-    "hwid" : "UNBOUND",
-    "duration" : "Lifetime"
+    "hwid" : "DB6739D0",
+    "duration" : "Lifetime",
+    "owner" : "KingExotic"
   },
   "FAITH-WEEK" : {
     "owner" : "faith",
-    "duration" : "1w",
-    "hwid" : "UNBOUND"
+    "hwid" : "UNBOUND",
+    "duration" : "1w"
   },
   "MIRKATA-WEEK-TEST-KEY" : {
     "hwid" : "UNBOUND",
