@@ -18,5 +18,10 @@
     "hwid" : "UNBOUND",
     "duration" : "1w",
     "owner" : "Mirkata"
+  },
+    "NEWBIE-WEEK-TEST-KEY" : {
+    "hwid" : "UNBOUND",
+    "duration" : "1w",
+    "owner" : "Newbie Gamer"
   }
 }
