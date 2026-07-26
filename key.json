@@ -1,27 +1,27 @@
 {
-  "NEWBIE-WEEK-TEST-KEY" : {
-    "hwid" : "UNBOUND",
-    "owner" : "Newbie Gamer",
-    "duration" : "1w"
+  "MIRKATA-WEEK-TEST-KEY" : {
+    "hwid" : "9C6922AA",
+    "duration" : "1w",
+    "owner" : "Mirkata"
   },
   "FAITH-WEEK" : {
-    "owner" : "faith",
-    "hwid" : "9522E6D0",
-    "duration" : "1w"
-  },
-  "MIRKATA-WEEK-TEST-KEY" : {
     "duration" : "1w",
-    "owner" : "Mirkata",
-    "hwid" : "9C6922AA"
-  },
-  "CHAMS-LIFETIME-MERCURY" : {
-    "duration" : "lifetime",
-    "owner" : "Mercury",
-    "hwid" : "UNBOUND"
+    "hwid" : "9522E6D0",
+    "owner" : "faith"
   },
   "LIFETIME-EXOTIC" : {
-    "hwid" : "DB6739D0",
     "duration" : "Lifetime",
+    "hwid" : "DB6739D0",
     "owner" : "KingExotic"
+  },
+  "NEWBIE-WEEK-TEST-KEY" : {
+    "owner" : "Newbie Gamer",
+    "hwid" : "BB9B0BD0",
+    "duration" : "1w"
+  },
+  "CHAMS-LIFETIME-MERCURY" : {
+    "hwid" : "UNBOUND",
+    "owner" : "Mercury",
+    "duration" : "lifetime"
   }
 }
