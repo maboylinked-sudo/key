@@ -81,6 +81,15 @@
       "username" : "Exotic",
       "sender_id" : "EXOTIC",
       "avatar_url" : null
+    },
+    {
+      "content" : "whos truna play",
+      "sent_at" : "2026-07-27T19:50:00.846Z",
+      "id" : "710E7665-7603-4E90-8542-8C781042B1EE",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : null
     }
   ]
 }
