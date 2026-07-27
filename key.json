@@ -4,7 +4,7 @@
     "EXOTIC" : {
       "pause_used" : false,
       "duration" : "lifetime",
-      "blacklist_reason" : null,
+      "blacklist_reason" : "gay",
       "discord_id" : null,
       "avatar_url" : "https:\/\/cdn.discordapp.com\/attachments\/1499683520451317851\/1524936571516882976\/IMG_6492.jpg?ex=6a68a19a&is=6a67501a&hm=4efce2151a2db915ff0cf528d4bebb608114b24e81d9b0659529ce09798261b5&",
       "created_at" : "2026-07-27T00:00:00Z",
