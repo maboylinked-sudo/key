@@ -1,7 +1,7 @@
 {
   "schema_version" : 1,
   "keys" : {
-    "EXOTIC-LIFETIME-KEY" : {
+    "TEST-KEY" : {
       "pause_used" : false,
       "blacklist_reason" : null,
       "discord_id" : null,
@@ -13,7 +13,7 @@
       "bound_at" : "2026-07-27T12:49:09.756Z",
       "username" : "Exotic",
       "role" : "Developer",
-      "duration" : "lifetime",
+      "duration" : "1d",
       "hwid" : "23010DC6-69BC-4385-8155-87A51D73F1E9",
       "total_paused_seconds" : 0,
       "status" : "active",
