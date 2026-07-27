@@ -3,27 +3,27 @@
   "keys" : {
     "EXOTIC" : {
       "pause_used" : false,
-      "hwid" : "23010DC6-69BC-4385-8155-87A51D73F1E9",
-      "updated_at" : "2026-07-27T20:23:38.182Z",
+      "status" : "active",
+      "total_paused_seconds" : 0,
       "discord_id" : null,
-      "avatar_url" : "https:\/\/discord.com\/channels\/@me\/1499683520451317851\/1524936571969863710",
+      "avatar_url" : "https:\/\/cdn.discordapp.com\/attachments\/1499683520451317851\/1524936571516882976\/IMG_6492.jpg?ex=6a68a19a&is=6a67501a&hm=4efce2151a2db915ff0cf528d4bebb608114b24e81d9b0659529ce09798261b5&",
       "created_at" : "2026-07-27T00:00:00Z",
       "blacklisted" : false,
       "activated_at" : "2026-07-27T12:49:09.756Z",
       "paused_at" : null,
+      "updated_at" : "2026-07-27T20:23:57.922Z",
+      "hwid" : "23010DC6-69BC-4385-8155-87A51D73F1E9",
       "last_hwid_reset_at" : null,
       "bound_at" : "2026-07-27T12:49:09.756Z",
       "username" : "Exotic",
       "role" : "Developer",
       "duration" : "lifetime",
-      "blacklist_reason" : null,
-      "status" : "active",
-      "total_paused_seconds" : 0
+      "blacklist_reason" : null
     },
     "NEWBIE-WEEK-TEST-KEY" : {
       "pause_used" : false,
-      "total_paused_seconds" : 0,
-      "hwid" : "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
+      "status" : "active",
+      "blacklist_reason" : null,
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
@@ -32,25 +32,25 @@
       "activated_at" : "2026-07-27T19:46:28.015Z",
       "paused_at" : null,
       "last_hwid_reset_at" : null,
+      "hwid" : "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
       "bound_at" : "2026-07-27T19:46:28.015Z",
       "username" : "Customer",
       "role" : "Customer",
+      "total_paused_seconds" : 0,
       "duration" : "1w",
       "sessions" : [
         {
-          "hwid" : "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
+          "created_at" : "2026-07-27T19:46:28.015Z",
           "id" : "0388497ba2eda79bc92de585307d53709bf33d012145feb6e7b753d0101a1e10",
           "client_version" : "2.5.0",
-          "created_at" : "2026-07-27T19:46:28.015Z"
+          "hwid" : "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6"
         }
-      ],
-      "status" : "active",
-      "blacklist_reason" : null
+      ]
     },
     "FAITH-WEEK" : {
       "pause_used" : false,
-      "status" : "active",
-      "total_paused_seconds" : 0,
+      "duration" : "1w",
+      "blacklist_reason" : null,
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
@@ -63,21 +63,28 @@
       "bound_at" : "2026-07-27T18:40:12.736Z",
       "username" : "Customer",
       "role" : "Customer",
+      "total_paused_seconds" : 0,
+      "status" : "active",
       "sessions" : [
         {
-          "hwid" : "sha256:40b938c8616d890e72e44b597213a3706accb2d7d6a181fa3ab7ab10c6b66f0b",
+          "created_at" : "2026-07-27T18:40:12.736Z",
           "id" : "cdeb24cb2ad348689698c66e8ae960429e0cc3c56a16f8e17fab3da07543c9e7",
           "client_version" : "2.5.0",
-          "created_at" : "2026-07-27T18:40:12.736Z"
+          "hwid" : "sha256:40b938c8616d890e72e44b597213a3706accb2d7d6a181fa3ab7ab10c6b66f0b"
         }
-      ],
-      "duration" : "1w",
-      "blacklist_reason" : null
+      ]
     },
     "TEST" : {
       "pause_used" : false,
-      "status" : "active",
-      "blacklist_reason" : null,
+      "sessions" : [
+        {
+          "hwid" : "sha256:53f6c0f317f081831e5b5c1ec125e70e9f49c5628599fff52ca61cf18da2bbbe",
+          "id" : "3ec262ba28de66177ee96b42a3ddef9863e6239d7442619f89aa7bfb4914a9f5",
+          "client_version" : "2.5.0",
+          "created_at" : "2026-07-27T18:07:05.143Z"
+        }
+      ],
+      "duration" : "1m",
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
@@ -90,20 +97,13 @@
       "bound_at" : "2026-07-27T18:07:05.143Z",
       "username" : "Customer",
       "role" : "Customer",
-      "total_paused_seconds" : 0,
-      "sessions" : [
-        {
-          "created_at" : "2026-07-27T18:07:05.143Z",
-          "id" : "3ec262ba28de66177ee96b42a3ddef9863e6239d7442619f89aa7bfb4914a9f5",
-          "client_version" : "2.5.0",
-          "hwid" : "sha256:53f6c0f317f081831e5b5c1ec125e70e9f49c5628599fff52ca61cf18da2bbbe"
-        }
-      ],
-      "duration" : "1m"
+      "blacklist_reason" : null,
+      "status" : "active",
+      "total_paused_seconds" : 0
     },
     "MERCURY-LIFETIME" : {
       "pause_used" : false,
-      "hwid" : null,
+      "total_paused_seconds" : 0,
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
@@ -111,25 +111,18 @@
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
+      "hwid" : null,
       "bound_at" : null,
       "username" : "Mercury",
       "role" : "Developer",
       "duration" : "lifetime",
       "blacklist_reason" : null,
-      "status" : "unused",
-      "total_paused_seconds" : 0
+      "status" : "unused"
     },
     "MIRKATA-TEST-WEEK" : {
       "pause_used" : false,
-      "sessions" : [
-        {
-          "created_at" : "2026-07-27T18:43:05.013Z",
-          "id" : "b3f0b4d346756a0917d3225cb27c0330734cabc523f2ec552ea081b2d4567ff0",
-          "client_version" : "2.5.0",
-          "hwid" : "sha256:f62a26d45b33757db056e8bbe6b131bb647e4b0f461f9c6d9d769d6aca46901f"
-        }
-      ],
-      "total_paused_seconds" : 0,
+      "status" : "active",
+      "blacklist_reason" : null,
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
@@ -142,13 +135,20 @@
       "bound_at" : "2026-07-27T18:43:05.013Z",
       "username" : "Customer",
       "role" : "Customer",
-      "duration" : "1w",
-      "status" : "active",
-      "blacklist_reason" : null
+      "sessions" : [
+        {
+          "hwid" : "sha256:f62a26d45b33757db056e8bbe6b131bb647e4b0f461f9c6d9d769d6aca46901f",
+          "id" : "b3f0b4d346756a0917d3225cb27c0330734cabc523f2ec552ea081b2d4567ff0",
+          "client_version" : "2.5.0",
+          "created_at" : "2026-07-27T18:43:05.013Z"
+        }
+      ],
+      "total_paused_seconds" : 0,
+      "duration" : "1w"
     },
     "PLACEHOLDER-KEY-007" : {
       "pause_used" : false,
-      "hwid" : null,
+      "total_paused_seconds" : 0,
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
@@ -156,17 +156,17 @@
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
+      "hwid" : null,
       "bound_at" : null,
       "username" : null,
       "role" : "Customer",
       "duration" : "lifetime",
       "blacklist_reason" : null,
-      "status" : "unused",
-      "total_paused_seconds" : 0
+      "status" : "unused"
     },
     "PLACEHOLDER-KEY-008" : {
       "pause_used" : false,
-      "hwid" : null,
+      "total_paused_seconds" : 0,
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
@@ -174,13 +174,13 @@
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
+      "hwid" : null,
       "bound_at" : null,
       "username" : null,
       "role" : "Customer",
       "duration" : "30m",
       "blacklist_reason" : null,
-      "status" : "unused",
-      "total_paused_seconds" : 0
+      "status" : "unused"
     }
   },
   "settings" : {
