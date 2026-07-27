@@ -117,6 +117,15 @@
       "username" : "feet lover",
       "sender_id" : "FAITH-WEEK",
       "avatar_url" : null
+    },
+    {
+      "content" : "niggas name is feetlover",
+      "sent_at" : "2026-07-27T20:54:07.942Z",
+      "id" : "6EFECA03-4D98-491C-97FD-4A7246DD8D08",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : "https:\/\/cdn.discordapp.com\/attachments\/1499683520451317851\/1524936571516882976\/IMG_6492.jpg?ex=6a68a19a&is=6a67501a&hm=4efce2151a2db915ff0cf528d4bebb608114b24e81d9b0659529ce09798261b5&"
     }
   ]
 }
