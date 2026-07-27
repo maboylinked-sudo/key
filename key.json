@@ -91,7 +91,7 @@
       "total_paused_seconds" : 0,
       "status" : "unused"
     },
-    "PLACEHOLDER-KEY-006" : {
+    "TEST" : {
       "pause_used" : false,
       "blacklisted" : false,
       "discord_id" : null,
@@ -103,7 +103,7 @@
       "bound_at" : null,
       "username" : null,
       "role" : "Customer",
-      "duration" : "1y",
+      "duration" : "1m",
       "hwid" : null,
       "blacklist_reason" : null,
       "total_paused_seconds" : 0,
