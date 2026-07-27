@@ -3,10 +3,11 @@
   "keys" : {
     "EXOTIC" : {
       "pause_used" : false,
-      "blacklisted" : false,
+      "status" : "active",
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
+      "blacklisted" : false,
       "activated_at" : "2026-07-27T12:49:09.756Z",
       "paused_at" : null,
       "last_hwid_reset_at" : null,
@@ -16,15 +17,15 @@
       "duration" : "lifetime",
       "hwid" : "23010DC6-69BC-4385-8155-87A51D73F1E9",
       "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "active"
+      "total_paused_seconds" : 0
     },
     "NEWBIE-WEEK-TEST-KEY" : {
       "pause_used" : false,
-      "blacklisted" : false,
+      "status" : "unused",
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
+      "blacklisted" : false,
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
@@ -34,15 +35,15 @@
       "duration" : "1w",
       "hwid" : null,
       "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "unused"
+      "total_paused_seconds" : 0
     },
     "FAITH-WEEK" : {
       "pause_used" : false,
-      "blacklisted" : false,
+      "status" : "unused",
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
+      "blacklisted" : false,
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
@@ -52,15 +53,42 @@
       "duration" : "1w",
       "hwid" : null,
       "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "unused"
+      "total_paused_seconds" : 0
     },
-    "MERCURY-LIFETIME" : {
+    "TEST" : {
       "pause_used" : false,
-      "blacklisted" : false,
+      "status" : "active",
+      "sessions" : [
+        {
+          "created_at" : "2026-07-27T18:07:05.143Z",
+          "id" : "3ec262ba28de66177ee96b42a3ddef9863e6239d7442619f89aa7bfb4914a9f5",
+          "client_version" : "2.5.0",
+          "hwid" : "sha256:53f6c0f317f081831e5b5c1ec125e70e9f49c5628599fff52ca61cf18da2bbbe"
+        }
+      ],
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
+      "session_version" : 1,
+      "blacklisted" : false,
+      "activated_at" : "2026-07-27T18:07:05.143Z",
+      "paused_at" : null,
+      "last_hwid_reset_at" : null,
+      "bound_at" : "2026-07-27T18:07:05.143Z",
+      "username" : "Customer",
+      "role" : "Customer",
+      "duration" : "1m",
+      "hwid" : "sha256:53f6c0f317f081831e5b5c1ec125e70e9f49c5628599fff52ca61cf18da2bbbe",
+      "blacklist_reason" : null,
+      "total_paused_seconds" : 0
+    },
+    "MERCURY-LIFETIME" : {
+      "pause_used" : false,
+      "status" : "unused",
+      "discord_id" : null,
+      "avatar_url" : null,
+      "created_at" : "2026-07-27T00:00:00Z",
+      "blacklisted" : false,
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
@@ -70,15 +98,15 @@
       "duration" : "lifetime",
       "hwid" : null,
       "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "unused"
+      "total_paused_seconds" : 0
     },
     "MIRKATA-TEST-WEEK" : {
       "pause_used" : false,
-      "blacklisted" : false,
+      "status" : "unused",
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
+      "blacklisted" : false,
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
@@ -88,33 +116,15 @@
       "duration" : "1w",
       "hwid" : null,
       "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "unused"
-    },
-    "TEST" : {
-      "pause_used" : false,
-      "blacklisted" : false,
-      "discord_id" : null,
-      "avatar_url" : null,
-      "created_at" : "2026-07-27T00:00:00Z",
-      "activated_at" : null,
-      "paused_at" : null,
-      "last_hwid_reset_at" : null,
-      "bound_at" : null,
-      "username" : null,
-      "role" : "Customer",
-      "duration" : "1m",
-      "hwid" : null,
-      "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "unused"
+      "total_paused_seconds" : 0
     },
     "PLACEHOLDER-KEY-007" : {
       "pause_used" : false,
-      "blacklisted" : false,
+      "status" : "unused",
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
+      "blacklisted" : false,
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
@@ -124,15 +134,15 @@
       "duration" : "lifetime",
       "hwid" : null,
       "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "unused"
+      "total_paused_seconds" : 0
     },
     "PLACEHOLDER-KEY-008" : {
       "pause_used" : false,
-      "blacklisted" : false,
+      "status" : "unused",
       "discord_id" : null,
       "avatar_url" : null,
       "created_at" : "2026-07-27T00:00:00Z",
+      "blacklisted" : false,
       "activated_at" : null,
       "paused_at" : null,
       "last_hwid_reset_at" : null,
@@ -142,8 +152,7 @@
       "duration" : "30m",
       "hwid" : null,
       "blacklist_reason" : null,
-      "total_paused_seconds" : 0,
-      "status" : "unused"
+      "total_paused_seconds" : 0
     }
   },
   "settings" : {
