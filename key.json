@@ -104,7 +104,7 @@
       "username" : null,
       "role" : "Customer",
       "duration" : "1m",
-      "hwid" : "5",
+      "hwid" : null,
       "blacklist_reason" : null,
       "total_paused_seconds" : 0,
       "status" : "unused"
