@@ -36,6 +36,15 @@
       "username" : "Exotic",
       "sender_id" : "EXOTIC",
       "avatar_url" : null
+    },
+    {
+      "content" : "hi",
+      "sent_at" : "2026-07-27T18:45:36.131Z",
+      "id" : "B5A6C839-43C8-4576-9D33-24728EA8E1B6",
+      "role" : "Customer",
+      "username" : "Customer",
+      "sender_id" : "FAITH-WEEK",
+      "avatar_url" : null
     }
   ]
 }
