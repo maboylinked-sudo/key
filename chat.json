@@ -72,6 +72,15 @@
       "username" : "Customer",
       "sender_id" : "FAITH-WEEK",
       "avatar_url" : null
+    },
+    {
+      "content" : "yo is anyone on",
+      "sent_at" : "2026-07-27T19:49:53.979Z",
+      "id" : "39D1A58F-B67A-4A9F-BBD2-6D11537D9A8C",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : null
     }
   ]
 }
