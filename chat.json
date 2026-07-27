@@ -1,4 +1,14 @@
 {
-  "version": 1,
-  "messages": []
+  "version" : 1,
+  "messages" : [
+    {
+      "content" : "hey",
+      "sent_at" : "2026-07-27T12:49:32.513Z",
+      "id" : "D6EC00C4-ACC6-45CB-89E8-6F71E3D4312D",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC-LIFETIME-KEY",
+      "avatar_url" : null
+    }
+  ]
 }
