@@ -54,6 +54,15 @@
       "username" : "Exotic",
       "sender_id" : "EXOTIC",
       "avatar_url" : null
+    },
+    {
+      "content" : "ur gay",
+      "sent_at" : "2026-07-27T18:46:12.245Z",
+      "id" : "67F1A9A6-8733-4357-A1BE-53C682E42314",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : null
     }
   ]
 }
