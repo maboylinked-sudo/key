@@ -27,6 +27,15 @@
       "username" : "Exotic",
       "sender_id" : "EXOTIC",
       "avatar_url" : null
+    },
+    {
+      "content" : "heyyyyy",
+      "sent_at" : "2026-07-27T18:45:31.209Z",
+      "id" : "7FD1F42C-B8B0-42CF-9EC2-8B9106F29921",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : null
     }
   ]
 }
