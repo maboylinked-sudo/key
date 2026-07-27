@@ -1,27 +1,28 @@
 {
-  "NEWBIE-WEEK-TEST-KEY" : {
-    "hwid" : "BB9B0BD0",
-    "owner" : "Newbie Gamer",
-    "duration" : "1w"
+  "schema_version": 1,
+  "settings": {
+    "maintenance": false,
+    "maintenance_message": "Mercury is currently undergoing maintenance.",
+    "hwid_reset_cooldown": "3d"
   },
-  "LIFETIME-EXOTIC" : {
-    "duration" : "Lifetime",
-    "owner" : "KingExotic",
-    "hwid" : "DB6739D0"
-  },
-  "MIRKATA-WEEK-TEST-KEY1" : {
-    "owner" : "Mirkata",
-    "hwid" : "B86364FC",
-    "duration" : "1w"
-  },
-  "FAITH-WEEK" : {
-    "owner" : "faith",
-    "duration" : "1w",
-    "hwid" : "9522E6D0"
-  },
-  "CHAMS-LIFETIME-MERCURY" : {
-    "owner" : "Mercury",
-    "hwid" : "UNBOUND",
-    "duration" : "lifetime"
+  "keys": {
+    "EXOTIC-LIFETIME-KEY": {
+      "username": "Exotic",
+      "avatar_url": null,
+      "discord_id": null,
+      "role": "owner",
+      "duration": "lifetime",
+      "activated_at": null,
+      "status": "unused",
+      "paused_at": null,
+      "total_paused_seconds": 0,
+      "pause_used": false,
+      "hwid": null,
+      "bound_at": null,
+      "last_hwid_reset_at": null,
+      "blacklisted": false,
+      "blacklist_reason": null,
+      "created_at": "2026-07-27T00:00:00Z"
+    }
   }
 }
