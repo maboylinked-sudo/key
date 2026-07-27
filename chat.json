@@ -9,6 +9,15 @@
       "username" : "Exotic",
       "sender_id" : "EXOTIC-LIFETIME-KEY",
       "avatar_url" : null
+    },
+    {
+      "content" : "wsg",
+      "sent_at" : "2026-07-27T12:49:38.842Z",
+      "id" : "F44D18BF-C771-483C-B09F-050109CBA27C",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC-LIFETIME-KEY",
+      "avatar_url" : null
     }
   ]
 }
