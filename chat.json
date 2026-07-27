@@ -45,6 +45,15 @@
       "username" : "Customer",
       "sender_id" : "FAITH-WEEK",
       "avatar_url" : null
+    },
+    {
+      "content" : "bey",
+      "sent_at" : "2026-07-27T18:45:38.037Z",
+      "id" : "B51C7BBF-E940-4F05-8E80-59F4B61A676E",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : null
     }
   ]
 }
