@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "keys": {
-    "TEST-KEY": {
+    "EXOTIC": {
       "pause_used": false,
       "blacklist_reason": null,
       "discord_id": null,
@@ -13,14 +13,14 @@
       "bound_at": "2026-07-27T12:49:09.756Z",
       "username": "Exotic",
       "role": "Developer",
-      "duration": "1d",
+      "duration": "lifetime",
       "hwid": "23010DC6-69BC-4385-8155-87A51D73F1E9",
       "total_paused_seconds": 0,
       "status": "active",
       "blacklisted": false
     },
 
-    "PLACEHOLDER-KEY-001": {
+    "MERCURY-LIFETIME": {
       "pause_used": false,
       "blacklist_reason": null,
       "discord_id": null,
@@ -30,8 +30,8 @@
       "paused_at": null,
       "last_hwid_reset_at": null,
       "bound_at": null,
-      "username": null,
-      "role": "Customer",
+      "username": "Mercury",
+      "role": "developer",
       "duration": "1d",
       "hwid": null,
       "total_paused_seconds": 0,
@@ -39,7 +39,7 @@
       "blacklisted": false
     },
 
-    "PLACEHOLDER-KEY-002": {
+    "MIRKATA-TEST-WEEK": {
       "pause_used": false,
       "blacklist_reason": null,
       "discord_id": null,
@@ -58,7 +58,7 @@
       "blacklisted": false
     },
 
-    "PLACEHOLDER-KEY-003": {
+    "NEWBIE-WEEK-TEST-KEY": {
       "pause_used": false,
       "blacklist_reason": null,
       "discord_id": null,
@@ -70,14 +70,14 @@
       "bound_at": null,
       "username": null,
       "role": "Customer",
-      "duration": "2w",
+      "duration": "1w",
       "hwid": null,
       "total_paused_seconds": 0,
       "status": "unused",
       "blacklisted": false
     },
 
-    "PLACEHOLDER-KEY-004": {
+    "FAITH-WEEK": {
       "pause_used": false,
       "blacklist_reason": null,
       "discord_id": null,
@@ -89,14 +89,14 @@
       "bound_at": null,
       "username": null,
       "role": "Customer",
-      "duration": "1mo",
+      "duration": "1w",
       "hwid": null,
       "total_paused_seconds": 0,
       "status": "unused",
       "blacklisted": false
     },
 
-    "PLACEHOLDER-KEY-005": {
+    "TEST-KEY": {
       "pause_used": false,
       "blacklist_reason": null,
       "discord_id": null,
@@ -108,7 +108,7 @@
       "bound_at": null,
       "username": null,
       "role": "Customer",
-      "duration": "3mo",
+      "duration": "1m",
       "hwid": null,
       "total_paused_seconds": 0,
       "status": "unused",
