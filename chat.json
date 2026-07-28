@@ -153,6 +153,15 @@
       "username" : "Exotic",
       "sender_id" : "EXOTIC",
       "avatar_url" : "https:\/\/cdn.discordapp.com\/attachments\/1499683520451317851\/1524936571516882976\/IMG_6492.jpg?ex=6a68a19a&is=6a67501a&hm=4efce2151a2db915ff0cf528d4bebb608114b24e81d9b0659529ce09798261b5&"
+    },
+    {
+      "content" : "hello",
+      "sent_at" : "2026-07-28T08:57:54.723Z",
+      "id" : "56392F8A-B406-4BC9-8339-B0A33D311D5C",
+      "role" : "Developer",
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : "https:\/\/cdn.discordapp.com\/attachments\/1499683520451317851\/1524936571516882976\/IMG_6492.jpg?ex=6a68a19a&is=6a67501a&hm=4efce2151a2db915ff0cf528d4bebb608114b24e81d9b0659529ce09798261b5&"
     }
   ]
 }
