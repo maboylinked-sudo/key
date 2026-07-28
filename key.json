@@ -147,7 +147,7 @@
         }
       ]
     },
-    "PLACEHOLDER-KEY-007" : {
+    "TEST-KEY-DRACO" : {
       "pause_used" : false,
       "status" : "unused",
       "discord_id" : null,
@@ -160,9 +160,9 @@
       "hwid" : null,
       "bound_at" : null,
       "username" : null,
-      "role" : "Customer",
+      "role" : "Tester",
       "total_paused_seconds" : 0,
-      "duration" : "lifetime",
+      "duration" : "1w",
       "blacklist_reason" : null
     },
     "PLACEHOLDER-KEY-008" : {
