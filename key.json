@@ -165,7 +165,7 @@
       "duration" : "1w",
       "blacklist_reason" : null
     },
-    "PLACEHOLDER-KEY-008" : {
+    "HOW-KEY-TEST" : {
       "pause_used" : false,
       "status" : "unused",
       "discord_id" : null,
@@ -180,7 +180,7 @@
       "username" : null,
       "role" : "Customer",
       "total_paused_seconds" : 0,
-      "duration" : "30m",
+      "duration" : "1w",
       "blacklist_reason" : null
     }
   },
