@@ -23,7 +23,7 @@
     "NEWBIE-WEEK-TEST-KEY": {
       "pause_used": false,
       "status": "active",
-      "total_paused_seconds": 0,
+      "total_paused_seconds": 86400,
       "discord_id": null,
       "avatar_url": null,
       "created_at": "2026-07-27T00:00:00Z",
@@ -45,7 +45,8 @@
         }
       ],
       "role": "Customer",
-      "blacklist_reason": null
+      "blacklist_reason": null,
+      "updated_at": "2026-07-30T20:14:21.559Z"
     },
     "FAITH-WEEK": {
       "pause_used": false,
