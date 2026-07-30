@@ -124,8 +124,8 @@
       "pause_used": false,
       "total_paused_seconds": 0,
       "duration": "1w",
-      "discord_id": null,
-      "avatar_url": null,
+      "discord_id": "1525500429159370923",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
       "created_at": "2026-07-27T00:00:00Z",
       "session_version": 1,
       "blacklisted": false,
@@ -134,7 +134,7 @@
       "last_hwid_reset_at": null,
       "hwid": "sha256:f62a26d45b33757db056e8bbe6b131bb647e4b0f461f9c6d9d769d6aca46901f",
       "bound_at": "2026-07-27T18:43:05.013Z",
-      "username": "Customer",
+      "username": "Mirkata0000",
       "role": "Customer",
       "blacklist_reason": null,
       "status": "active",
@@ -145,7 +145,8 @@
           "client_version": "2.5.0",
           "hwid": "sha256:f62a26d45b33757db056e8bbe6b131bb647e4b0f461f9c6d9d769d6aca46901f"
         }
-      ]
+      ],
+      "updated_at": "2026-07-30T19:49:39.779Z"
     },
     "TEST-KEY-BILZ": {
       "pause_used": false,
