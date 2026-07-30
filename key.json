@@ -11,14 +11,16 @@
       "blacklisted": false,
       "activated_at": "2026-07-27T12:49:09.756Z",
       "paused_at": null,
-      "updated_at": "2026-07-27T20:23:57.922Z",
+      "updated_at": "2026-07-30T21:20:44.211Z",
       "hwid": "23010DC6-69BC-4385-8155-87A51D73F1E9",
       "last_hwid_reset_at": null,
       "duration": "lifetime",
       "bound_at": "2026-07-27T12:49:09.756Z",
       "blacklist_reason": null,
       "username": "Exotic",
-      "total_paused_seconds": 0
+      "total_paused_seconds": 0,
+      "sessions": [],
+      "session_version": 2
     },
     "NEWBIE-WEEK-TEST-KEY": {
       "pause_used": false,
