@@ -165,7 +165,7 @@
       "duration" : "1w",
       "blacklist_reason" : null
     },
-    "HOW-KEY-TEST" : {
+    "KJNR-KEY-TEST" : {
       "pause_used" : false,
       "status" : "unused",
       "discord_id" : null,
