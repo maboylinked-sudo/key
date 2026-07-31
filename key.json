@@ -233,26 +233,6 @@
       "blacklist_reason": null,
       "status": "unused",
       "total_paused_seconds": 0
-    },
-    "MERCURY-1W-NWWA-7D01": {
-      "pause_used": false,
-      "duration": "1w",
-      "sessions": [],
-      "discord_id": "331142565569101824",
-      "avatar_url": "https://cdn.discordapp.com/avatars/331142565569101824/51e8f2cd8965d9e40b022e60f5c68814.png?size=1024",
-      "created_at": "2026-07-31T08:00:19.981Z",
-      "session_version": 1,
-      "blacklisted": false,
-      "activated_at": null,
-      "paused_at": null,
-      "last_hwid_reset_at": null,
-      "hwid": null,
-      "bound_at": null,
-      "username": "bilz",
-      "role": "Customer",
-      "blacklist_reason": null,
-      "status": "unused",
-      "total_paused_seconds": 0
     }
   },
   "settings": {
