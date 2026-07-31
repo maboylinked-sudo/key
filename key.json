@@ -26,8 +26,8 @@
       "pause_used": false,
       "status": "active",
       "total_paused_seconds": 86400,
-      "discord_id": null,
-      "avatar_url": null,
+      "discord_id": "456478557556965376",
+      "avatar_url": "https://cdn.discordapp.com/avatars/456478557556965376/2c73a76d90a3650aed274c972f4ac6d3.png?size=1024",
       "created_at": "2026-07-27T00:00:00Z",
       "session_version": 1,
       "blacklisted": false,
@@ -37,7 +37,7 @@
       "hwid": "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
       "bound_at": "2026-07-27T19:46:28.015Z",
       "duration": "1w",
-      "username": "Customer",
+      "username": "Newbie_gamer",
       "sessions": [
         {
           "created_at": "2026-07-27T19:46:28.015Z",
@@ -48,7 +48,7 @@
       ],
       "role": "Customer",
       "blacklist_reason": null,
-      "updated_at": "2026-07-30T20:14:21.559Z"
+      "updated_at": "2026-07-31T11:37:17.343Z"
     },
     "FAITH-WEEK": {
       "pause_used": false,
