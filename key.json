@@ -251,7 +251,7 @@
     },
     "EXOTIC": {
       "pause_used": true,
-      "total_paused_seconds": 0,
+      "total_paused_seconds": 19,
       "sessions": [],
       "duration": "lifetime",
       "discord_id": "1251142575071428683",
@@ -260,14 +260,14 @@
       "session_version": 2,
       "blacklisted": false,
       "activated_at": "2026-07-27T12:49:09.756Z",
-      "paused_at": "2026-08-01T12:21:14.450Z",
+      "paused_at": null,
       "bound_at": "2026-07-27T12:49:09.756Z",
-      "updated_at": "2026-08-01T12:21:14.450Z",
+      "updated_at": "2026-08-01T12:21:34.165Z",
       "username": "Exotic",
       "hwid": "23010DC6-69BC-4385-8155-87A51D73F1E9",
       "role": "Developer",
       "blacklist_reason": null,
-      "status": "paused",
+      "status": "active",
       "last_hwid_reset_at": null
     },
     "MERCURY-1W-K6A3-6TS7": {
