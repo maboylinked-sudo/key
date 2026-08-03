@@ -257,18 +257,18 @@
       "discord_id": "1251142575071428683",
       "avatar_url": "https://cdn.discordapp.com/ephemeral-attachments/1532461457017536556/1532720302113558638/IMG_7348.jpg?ex=6a6de084&is=6a6c8f04&hm=903893115ab893c9a1b7310033db2d1b299f79b0412ac1421a5d7cf5e7f2611b&",
       "created_at": "2026-07-27T00:00:00Z",
-      "session_version": 2,
+      "session_version": 3,
       "blacklisted": false,
       "activated_at": "2026-07-27T12:49:09.756Z",
       "paused_at": null,
-      "bound_at": "2026-07-27T12:49:09.756Z",
-      "updated_at": "2026-08-01T12:21:34.165Z",
+      "bound_at": null,
+      "updated_at": "2026-08-03T12:14:49.479Z",
       "username": "Exotic",
-      "hwid": "23010DC6-69BC-4385-8155-87A51D73F1E9",
+      "hwid": null,
       "role": "Developer",
       "blacklist_reason": null,
       "status": "active",
-      "last_hwid_reset_at": null
+      "last_hwid_reset_at": "2026-08-03T12:14:49.479Z"
     },
     "MERCURY-1W-K6A3-6TS7": {
       "pause_used": false,
