@@ -9,6 +9,15 @@
       "username" : "Mercury",
       "sender_id" : "MERCURY-LIFETIME",
       "avatar_url" : null
+    },
+    {
+      "content" : "yo",
+      "sent_at" : "2026-08-03T18:57:58.507Z",
+      "id" : "91333F0F-EB75-4814-A9B6-E6D46C271D8D",
+      "role" : "Customer",
+      "username" : "хх",
+      "sender_id" : "MERCURY-1W-NQXL-BOT6",
+      "avatar_url" : "https:\/\/cdn.discordapp.com\/embed\/avatars\/4.png"
     }
   ]
 }
