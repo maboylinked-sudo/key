@@ -1,229 +1,223 @@
 {
-  "schema_version" : 1,
-  "keys" : {
-    "FAITH-WEEK" : {
-      "pause_used" : false,
-      "sessions" : [
+  "schema_version": 1,
+  "keys": {
+    "FAITH-WEEK": {
+      "pause_used": false,
+      "sessions": [
         {
-          "hwid" : "sha256:6759df0dbffe3ec25a1b52138c5eec1291808dbc76935e3f34ac6b8d1e40e2d9",
-          "id" : "2019f0c6e05b21b8ff3aead01a7128ef2af360760db938664fac91aa433620d4",
-          "client_version" : "2.5.0",
-          "created_at" : "2026-08-03T12:37:03.294Z"
+          "hwid": "sha256:6759df0dbffe3ec25a1b52138c5eec1291808dbc76935e3f34ac6b8d1e40e2d9",
+          "id": "2019f0c6e05b21b8ff3aead01a7128ef2af360760db938664fac91aa433620d4",
+          "client_version": "2.5.0",
+          "created_at": "2026-08-03T12:37:03.294Z"
         }
       ],
-      "status" : "active",
-      "updated_at" : "2026-08-03T12:36:59.270Z",
-      "discord_id" : "591922139221983243",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/avatars\/591922139221983243\/86db965fae70194b931694296459d246.png?size=1024",
-      "created_at" : "2026-07-27T00:00:00Z",
-      "session_version" : 2,
-      "last_hwid_reset_at" : "2026-08-03T12:36:59.270Z",
-      "blacklisted" : false,
-      "activated_at" : "2026-07-27T18:40:12.736Z",
-      "paused_at" : null,
-      "username" : "faith",
-      "bound_at" : "2026-08-03T12:37:03.294Z",
-      "hwid" : "sha256:6759df0dbffe3ec25a1b52138c5eec1291808dbc76935e3f34ac6b8d1e40e2d9",
-      "role" : "Customer",
-      "blacklist_reason" : null,
-      "total_paused_seconds" : 604800,
-      "duration" : "1w"
+      "status": "active",
+      "updated_at": "2026-08-03T12:36:59.270Z",
+      "discord_id": "591922139221983243",
+      "avatar_url": "https://cdn.discordapp.com/avatars/591922139221983243/86db965fae70194b931694296459d246.png?size=1024",
+      "created_at": "2026-07-27T00:00:00Z",
+      "session_version": 2,
+      "last_hwid_reset_at": "2026-08-03T12:36:59.270Z",
+      "blacklisted": false,
+      "activated_at": "2026-07-27T18:40:12.736Z",
+      "paused_at": null,
+      "username": "faith",
+      "bound_at": "2026-08-03T12:37:03.294Z",
+      "hwid": "sha256:6759df0dbffe3ec25a1b52138c5eec1291808dbc76935e3f34ac6b8d1e40e2d9",
+      "role": "Customer",
+      "blacklist_reason": null,
+      "total_paused_seconds": 604800,
+      "duration": "1w"
     },
-    "EXOTIC" : {
-      "pause_used" : true,
-      "total_paused_seconds" : 19,
-      "sessions" : [
+    "EXOTIC": {
+      "pause_used": true,
+      "total_paused_seconds": 19,
+      "sessions": [
         {
-          "hwid" : "sha256:e71280896a3382c127c98af128a76965f27d48d4f7be16e5b0d6b8e76333e0b0",
-          "id" : "ffc9d8d8c8cd8c0c15a95e0db3304cec2d4cccc6610d670d6e25a7159bcf9f40",
-          "client_version" : "2.5.0",
-          "created_at" : "2026-08-03T12:14:52.750Z"
+          "hwid": "sha256:e71280896a3382c127c98af128a76965f27d48d4f7be16e5b0d6b8e76333e0b0",
+          "id": "ffc9d8d8c8cd8c0c15a95e0db3304cec2d4cccc6610d670d6e25a7159bcf9f40",
+          "client_version": "2.5.0",
+          "created_at": "2026-08-03T12:14:52.750Z"
         }
       ],
-      "updated_at" : "2026-08-03T12:30:13.425Z",
-      "discord_id" : "1251142575071428683",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/avatars\/1251142575071428683\/f62df7cef92176d3442c1131c7dd90ac.png?size=1024",
-      "created_at" : "2026-07-27T00:00:00Z",
-      "session_version" : 3,
-      "last_hwid_reset_at" : "2026-08-03T12:14:49.479Z",
-      "blacklisted" : false,
-      "activated_at" : "2026-07-27T12:49:09.756Z",
-      "paused_at" : null,
-      "username" : "Exotic",
-      "hwid" : "sha256:e71280896a3382c127c98af128a76965f27d48d4f7be16e5b0d6b8e76333e0b0",
-      "bound_at" : "2026-08-03T12:14:52.750Z",
-      "duration" : "lifetime",
-      "blacklist_reason" : null,
-      "status" : "active",
-      "role" : "Developer"
+      "updated_at": "2026-08-03T12:30:13.425Z",
+      "discord_id": "1251142575071428683",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1251142575071428683/f62df7cef92176d3442c1131c7dd90ac.png?size=1024",
+      "created_at": "2026-07-27T00:00:00Z",
+      "session_version": 3,
+      "last_hwid_reset_at": "2026-08-03T12:14:49.479Z",
+      "blacklisted": false,
+      "activated_at": "2026-07-27T12:49:09.756Z",
+      "paused_at": null,
+      "username": "Exotic",
+      "hwid": "sha256:e71280896a3382c127c98af128a76965f27d48d4f7be16e5b0d6b8e76333e0b0",
+      "bound_at": "2026-08-03T12:14:52.750Z",
+      "duration": "lifetime",
+      "blacklist_reason": null,
+      "status": "active",
+      "role": "Developer"
     },
-    "MERCURY-1W-7R6K-DS7J" : {
-      "pause_used" : false,
-      "role" : "Customer",
-      "total_paused_seconds" : 0,
-      "discord_id" : null,
-      "avatar_url" : null,
-      "created_at" : "2026-07-30T19:30:08.281Z",
-      "session_version" : 1,
-      "blacklisted" : false,
-      "activated_at" : "2026-07-30T20:06:51.949Z",
-      "paused_at" : null,
-      "bound_at" : "2026-07-30T20:06:51.949Z",
-      "last_hwid_reset_at" : null,
-      "username" : "Customer",
-      "hwid" : "sha256:e32d87961d9820796968eddef93c212df0b8787f4bfd168fb730b7f8771e9037",
-      "duration" : "1w",
-      "sessions" : [
+    "MERCURY-1W-7R6K-DS7J": {
+      "pause_used": false,
+      "role": "Customer",
+      "total_paused_seconds": 0,
+      "discord_id": null,
+      "avatar_url": null,
+      "created_at": "2026-07-30T19:30:08.281Z",
+      "session_version": 1,
+      "blacklisted": false,
+      "activated_at": "2026-07-30T20:06:51.949Z",
+      "paused_at": null,
+      "bound_at": "2026-07-30T20:06:51.949Z",
+      "last_hwid_reset_at": null,
+      "username": "Customer",
+      "hwid": "sha256:e32d87961d9820796968eddef93c212df0b8787f4bfd168fb730b7f8771e9037",
+      "duration": "1w",
+      "sessions": [
         {
-          "hwid" : "sha256:e32d87961d9820796968eddef93c212df0b8787f4bfd168fb730b7f8771e9037",
-          "id" : "45d8843185159485d10246f0342047e39765cf620460d048f7d65c36514f01c7",
-          "client_version" : "2.5.0",
-          "created_at" : "2026-07-30T20:06:51.949Z"
+          "hwid": "sha256:e32d87961d9820796968eddef93c212df0b8787f4bfd168fb730b7f8771e9037",
+          "id": "45d8843185159485d10246f0342047e39765cf620460d048f7d65c36514f01c7",
+          "client_version": "2.5.0",
+          "created_at": "2026-07-30T20:06:51.949Z"
         }
       ],
-      "status" : "active",
-      "blacklist_reason" : null
+      "status": "active",
+      "blacklist_reason": null
     },
-    "MERCURY-1W-NQXL-BOT6" : {
-      "pause_used" : false,
-      "status" : "active",
-      "total_paused_seconds" : 0,
-      "discord_id" : "908302375192784927",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/embed\/avatars\/4.png",
-      "created_at" : "2026-08-03T17:54:27.594Z",
-      "session_version" : 1,
-      "blacklisted" : false,
-      "activated_at" : "2026-08-03T18:28:34.107Z",
-      "paused_at" : null,
-      "last_hwid_reset_at" : null,
-      "hwid" : "sha256:6cac432678f9f95fb14540baba633b3fac72374e0e2dbd0ae94190ba070473e3",
-      "bound_at" : "2026-08-03T18:28:34.107Z",
-      "duration" : "1w",
-      "username" : "хх",
-      "sessions" : [
+    "MERCURY-1W-NQXL-BOT6": {
+      "pause_used": false,
+      "status": "active",
+      "total_paused_seconds": 0,
+      "discord_id": "908302375192784927",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "created_at": "2026-08-03T17:54:27.594Z",
+      "session_version": 2,
+      "blacklisted": false,
+      "activated_at": "2026-08-03T18:28:34.107Z",
+      "paused_at": null,
+      "last_hwid_reset_at": "2026-08-03T20:15:13.938Z",
+      "hwid": null,
+      "bound_at": null,
+      "duration": "1w",
+      "username": "хх",
+      "sessions": [],
+      "role": "Customer",
+      "blacklist_reason": null,
+      "updated_at": "2026-08-03T20:15:13.938Z"
+    },
+    "MERCURY-LIFETIME": {
+      "pause_used": false,
+      "sessions": [
         {
-          "created_at" : "2026-08-03T18:28:34.107Z",
-          "id" : "7c233e9c6a5d1ac766077b64afb3888ffe3534bd99a2f9ceabb9154d4706850d",
-          "client_version" : "2.5.0",
-          "hwid" : "sha256:6cac432678f9f95fb14540baba633b3fac72374e0e2dbd0ae94190ba070473e3"
+          "created_at": "2026-08-03T13:23:05.776Z",
+          "id": "377c4e8a51c8169178f712bc183948a5d82ff8a86cc037fa7c84f5fb744c37e2",
+          "client_version": "2.5.0",
+          "hwid": "sha256:40403671666d124f185baac97b4792e12cd10bee34b118ad866a020dbbce4d7a"
         }
       ],
-      "role" : "Customer",
-      "blacklist_reason" : null
+      "username": "Mercury",
+      "discord_id": null,
+      "avatar_url": null,
+      "created_at": "2026-07-27T00:00:00Z",
+      "session_version": 1,
+      "blacklisted": false,
+      "activated_at": "2026-08-03T13:23:05.776Z",
+      "paused_at": null,
+      "last_hwid_reset_at": null,
+      "hwid": "sha256:40403671666d124f185baac97b4792e12cd10bee34b118ad866a020dbbce4d7a",
+      "role": "Developer",
+      "bound_at": "2026-08-03T13:23:05.776Z",
+      "duration": "lifetime",
+      "blacklist_reason": null,
+      "status": "active",
+      "total_paused_seconds": 0
     },
-    "MERCURY-LIFETIME" : {
-      "pause_used" : false,
-      "sessions" : [
+    "MERCURY-1MO-BPWT-ANGV": {
+      "pause_used": true,
+      "status": "active",
+      "blacklist_reason": null,
+      "updated_at": "2026-08-03T16:57:33.350Z",
+      "discord_id": "456478557556965376",
+      "avatar_url": "https://cdn.discordapp.com/avatars/456478557556965376/2c73a76d90a3650aed274c972f4ac6d3.png?size=1024",
+      "created_at": "2026-08-03T12:24:22.698Z",
+      "session_version": 1,
+      "blacklisted": false,
+      "activated_at": "2026-08-03T15:20:22.571Z",
+      "paused_at": null,
+      "last_hwid_reset_at": null,
+      "username": "Newbie_gamer",
+      "hwid": "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
+      "role": "Customer",
+      "bound_at": "2026-08-03T15:20:22.571Z",
+      "total_paused_seconds": 4533,
+      "duration": "1mo",
+      "sessions": [
         {
-          "created_at" : "2026-08-03T13:23:05.776Z",
-          "id" : "377c4e8a51c8169178f712bc183948a5d82ff8a86cc037fa7c84f5fb744c37e2",
-          "client_version" : "2.5.0",
-          "hwid" : "sha256:40403671666d124f185baac97b4792e12cd10bee34b118ad866a020dbbce4d7a"
-        }
-      ],
-      "username" : "Mercury",
-      "discord_id" : null,
-      "avatar_url" : null,
-      "created_at" : "2026-07-27T00:00:00Z",
-      "session_version" : 1,
-      "blacklisted" : false,
-      "activated_at" : "2026-08-03T13:23:05.776Z",
-      "paused_at" : null,
-      "last_hwid_reset_at" : null,
-      "hwid" : "sha256:40403671666d124f185baac97b4792e12cd10bee34b118ad866a020dbbce4d7a",
-      "role" : "Developer",
-      "bound_at" : "2026-08-03T13:23:05.776Z",
-      "duration" : "lifetime",
-      "blacklist_reason" : null,
-      "status" : "active",
-      "total_paused_seconds" : 0
-    },
-    "MERCURY-1MO-BPWT-ANGV" : {
-      "pause_used" : true,
-      "status" : "active",
-      "blacklist_reason" : null,
-      "updated_at" : "2026-08-03T16:57:33.350Z",
-      "discord_id" : "456478557556965376",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/avatars\/456478557556965376\/2c73a76d90a3650aed274c972f4ac6d3.png?size=1024",
-      "created_at" : "2026-08-03T12:24:22.698Z",
-      "session_version" : 1,
-      "blacklisted" : false,
-      "activated_at" : "2026-08-03T15:20:22.571Z",
-      "paused_at" : null,
-      "last_hwid_reset_at" : null,
-      "username" : "Newbie_gamer",
-      "hwid" : "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
-      "role" : "Customer",
-      "bound_at" : "2026-08-03T15:20:22.571Z",
-      "total_paused_seconds" : 4533,
-      "duration" : "1mo",
-      "sessions" : [
-        {
-          "hwid" : "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
-          "id" : "a67cae81f486251662195f672953c87dba2f6eecf363b36d53ebfa799d7cf201",
-          "client_version" : "2.5.0",
-          "created_at" : "2026-08-03T15:20:22.571Z"
+          "hwid": "sha256:7f5e2c5cbf9043796059312a058a5d9e8d2cd0f52a1cf556bf9a0eec6f75bdb6",
+          "id": "a67cae81f486251662195f672953c87dba2f6eecf363b36d53ebfa799d7cf201",
+          "client_version": "2.5.0",
+          "created_at": "2026-08-03T15:20:22.571Z"
         }
       ]
     },
-    "KJNR-KEY-TEST" : {
-      "pause_used" : false,
-      "duration" : "1w",
-      "total_paused_seconds" : 0,
-      "discord_id" : null,
-      "avatar_url" : null,
-      "created_at" : "2026-07-27T00:00:00Z",
-      "session_version" : 1,
-      "blacklisted" : false,
-      "activated_at" : "2026-07-31T22:16:22.210Z",
-      "paused_at" : null,
-      "last_hwid_reset_at" : null,
-      "username" : "Customer",
-      "hwid" : "sha256:f03bca943f27ab76fa772809cbd4013be88a97b4395bc3e2e208937ef94a90ae",
-      "role" : "Customer",
-      "bound_at" : "2026-07-31T22:16:22.210Z",
-      "sessions" : [
+    "KJNR-KEY-TEST": {
+      "pause_used": false,
+      "duration": "1w",
+      "total_paused_seconds": 0,
+      "discord_id": null,
+      "avatar_url": null,
+      "created_at": "2026-07-27T00:00:00Z",
+      "session_version": 1,
+      "blacklisted": false,
+      "activated_at": "2026-07-31T22:16:22.210Z",
+      "paused_at": null,
+      "last_hwid_reset_at": null,
+      "username": "Customer",
+      "hwid": "sha256:f03bca943f27ab76fa772809cbd4013be88a97b4395bc3e2e208937ef94a90ae",
+      "role": "Customer",
+      "bound_at": "2026-07-31T22:16:22.210Z",
+      "sessions": [
         {
-          "created_at" : "2026-07-31T22:16:22.210Z",
-          "id" : "4a2297843a7566933776ee5613d4f518f7088aca87848b5246234e506cb67d37",
-          "client_version" : "2.5.0",
-          "hwid" : "sha256:f03bca943f27ab76fa772809cbd4013be88a97b4395bc3e2e208937ef94a90ae"
+          "created_at": "2026-07-31T22:16:22.210Z",
+          "id": "4a2297843a7566933776ee5613d4f518f7088aca87848b5246234e506cb67d37",
+          "client_version": "2.5.0",
+          "hwid": "sha256:f03bca943f27ab76fa772809cbd4013be88a97b4395bc3e2e208937ef94a90ae"
         }
       ],
-      "status" : "active",
-      "blacklist_reason" : null
+      "status": "active",
+      "blacklist_reason": null
     },
-    "MERCURY-1W-K6A3-6TS7" : {
-      "pause_used" : false,
-      "bound_at" : "2026-07-31T14:38:51.513Z",
-      "blacklist_reason" : null,
-      "discord_id" : "861417756733997057",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/avatars\/861417756733997057\/e56e6610c63dcab07466cb2412a642e5.png?size=1024",
-      "created_at" : "2026-07-31T14:13:51.566Z",
-      "session_version" : 1,
-      "blacklisted" : false,
-      "activated_at" : "2026-07-31T14:38:51.513Z",
-      "paused_at" : null,
-      "last_hwid_reset_at" : null,
-      "username" : "kozo",
-      "hwid" : "sha256:5c1a2d0b1d0a68a8bb9907b2e86cd862f89816ac7ee218249d173f85d7cc75ff",
-      "duration" : "1w",
-      "role" : "Customer",
-      "total_paused_seconds" : 0,
-      "status" : "active",
-      "sessions" : [
+    "MERCURY-1W-K6A3-6TS7": {
+      "pause_used": false,
+      "bound_at": "2026-07-31T14:38:51.513Z",
+      "blacklist_reason": null,
+      "discord_id": "861417756733997057",
+      "avatar_url": "https://cdn.discordapp.com/avatars/861417756733997057/e56e6610c63dcab07466cb2412a642e5.png?size=1024",
+      "created_at": "2026-07-31T14:13:51.566Z",
+      "session_version": 1,
+      "blacklisted": false,
+      "activated_at": "2026-07-31T14:38:51.513Z",
+      "paused_at": null,
+      "last_hwid_reset_at": null,
+      "username": "kozo",
+      "hwid": "sha256:5c1a2d0b1d0a68a8bb9907b2e86cd862f89816ac7ee218249d173f85d7cc75ff",
+      "duration": "1w",
+      "role": "Customer",
+      "total_paused_seconds": 0,
+      "status": "active",
+      "sessions": [
         {
-          "hwid" : "sha256:5c1a2d0b1d0a68a8bb9907b2e86cd862f89816ac7ee218249d173f85d7cc75ff",
-          "id" : "0940138b6df0b57ab33fdc41eeef7683e25cdc70181e9a8b11d49f2b6a3628f2",
-          "client_version" : "2.5.0",
-          "created_at" : "2026-07-31T14:38:51.513Z"
+          "hwid": "sha256:5c1a2d0b1d0a68a8bb9907b2e86cd862f89816ac7ee218249d173f85d7cc75ff",
+          "id": "0940138b6df0b57ab33fdc41eeef7683e25cdc70181e9a8b11d49f2b6a3628f2",
+          "client_version": "2.5.0",
+          "created_at": "2026-07-31T14:38:51.513Z"
         }
       ]
     }
   },
-  "settings" : {
-    "hwid_reset_cooldown" : "3d",
-    "maintenance" : false,
-    "maintenance_message" : "Mercury is currently undergoing maintenance."
+  "settings": {
+    "hwid_reset_cooldown": "3d",
+    "maintenance": false,
+    "maintenance_message": "Mercury is currently undergoing maintenance."
   }
 }
