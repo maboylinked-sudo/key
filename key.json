@@ -129,26 +129,6 @@
       "role": "Developer",
       "status": "unused"
     },
-    "MERCURY-1W-QKHH-8O2E": {
-      "pause_used": false,
-      "username": "bilz",
-      "total_paused_seconds": 0,
-      "discord_id": "331142565569101824",
-      "avatar_url": "https://cdn.discordapp.com/avatars/331142565569101824/51e8f2cd8965d9e40b022e60f5c68814.png?size=1024",
-      "created_at": "2026-07-30T20:12:03.649Z",
-      "session_version": 1,
-      "blacklisted": false,
-      "activated_at": null,
-      "paused_at": null,
-      "last_hwid_reset_at": null,
-      "hwid": null,
-      "role": "Customer",
-      "bound_at": null,
-      "duration": "1w",
-      "sessions": [],
-      "status": "unused",
-      "blacklist_reason": null
-    },
     "MERCURY-1W-UE4L-H4LB": {
       "pause_used": false,
       "username": "spacsyy",
