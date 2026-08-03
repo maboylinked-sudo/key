@@ -129,33 +129,6 @@
       "role": "Developer",
       "status": "unused"
     },
-    "MERCURY-1W-UE4L-H4LB": {
-      "pause_used": false,
-      "username": "spacsyy",
-      "total_paused_seconds": 0,
-      "discord_id": "630252547881566219",
-      "avatar_url": "https://cdn.discordapp.com/avatars/630252547881566219/4ca38a937626e9be7cde8e195909e290.png?size=1024",
-      "created_at": "2026-07-31T12:26:52.210Z",
-      "session_version": 1,
-      "blacklisted": false,
-      "activated_at": "2026-07-31T12:30:02.716Z",
-      "paused_at": null,
-      "last_hwid_reset_at": null,
-      "hwid": "sha256:ad413cc1d1444d080e437ea2ed9abcb1ba96217cdcc3a6ea1257069470be330e",
-      "role": "Customer",
-      "bound_at": "2026-07-31T12:30:02.716Z",
-      "duration": "1w",
-      "sessions": [
-        {
-          "hwid": "sha256:ad413cc1d1444d080e437ea2ed9abcb1ba96217cdcc3a6ea1257069470be330e",
-          "id": "9954b440f40616ad6e0ccc7debee0970bae59fd002828c1a7f5ac45c2571e292",
-          "client_version": "2.5.0",
-          "created_at": "2026-07-31T12:30:02.716Z"
-        }
-      ],
-      "status": "active",
-      "blacklist_reason": null
-    },
     "EXOTIC": {
       "pause_used": true,
       "blacklist_reason": null,
