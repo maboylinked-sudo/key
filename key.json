@@ -56,34 +56,6 @@
       ],
       "role": "Customer"
     },
-    "MIRKATA-TEST-WEEK": {
-      "pause_used": false,
-      "sessions": [
-        {
-          "hwid": "sha256:f62a26d45b33757db056e8bbe6b131bb647e4b0f461f9c6d9d769d6aca46901f",
-          "id": "b3f0b4d346756a0917d3225cb27c0330734cabc523f2ec552ea081b2d4567ff0",
-          "client_version": "2.5.0",
-          "created_at": "2026-07-27T18:43:05.013Z"
-        }
-      ],
-      "status": "active",
-      "bound_at": "2026-07-27T18:43:05.013Z",
-      "discord_id": "1525500429159370923",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-      "created_at": "2026-07-27T00:00:00Z",
-      "session_version": 1,
-      "blacklisted": false,
-      "activated_at": "2026-07-27T18:43:05.013Z",
-      "paused_at": null,
-      "updated_at": "2026-07-30T19:49:39.779Z",
-      "username": "Mirkata0000",
-      "last_hwid_reset_at": null,
-      "duration": "1w",
-      "role": "Customer",
-      "total_paused_seconds": 0,
-      "blacklist_reason": null,
-      "hwid": "sha256:f62a26d45b33757db056e8bbe6b131bb647e4b0f461f9c6d9d769d6aca46901f"
-    },
     "FAITH-WEEK": {
       "pause_used": false,
       "blacklist_reason": null,
