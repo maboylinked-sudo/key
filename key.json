@@ -194,9 +194,9 @@
       "blacklist_reason": null
     },
     "MERCURY-1MO-BPWT-ANGV": {
-      "pause_used": false,
+      "pause_used": true,
       "blacklist_reason": null,
-      "status": "active",
+      "status": "paused",
       "bound_at": "2026-08-03T15:20:22.571Z",
       "discord_id": "456478557556965376",
       "avatar_url": "https://cdn.discordapp.com/avatars/456478557556965376/2c73a76d90a3650aed274c972f4ac6d3.png?size=1024",
@@ -204,8 +204,8 @@
       "session_version": 1,
       "blacklisted": false,
       "activated_at": "2026-08-03T15:20:22.571Z",
-      "paused_at": null,
-      "updated_at": "2026-08-04T08:04:37.768Z",
+      "paused_at": "2026-08-04T08:04:41.625Z",
+      "updated_at": "2026-08-04T08:04:41.625Z",
       "last_hwid_reset_at": null,
       "username": "Newbie_gamer",
       "duration": "1mo",
