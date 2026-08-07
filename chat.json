@@ -2,31 +2,13 @@
   "version" : 2,
   "messages" : [
     {
-      "content" : "Wsp guys",
-      "sent_at" : "2026-08-03T13:23:24.415Z",
-      "id" : "83E83949-09C5-4727-A003-BCDA59532B73",
+      "content" : "yo kjnr",
+      "sent_at" : "2026-08-07T17:34:58.563Z",
+      "id" : "ADC723F9-2F6B-4F37-9DC3-5EBC64688016",
       "role" : "Developer",
-      "username" : "Mercury",
-      "sender_id" : "MERCURY-LIFETIME",
-      "avatar_url" : null
-    },
-    {
-      "content" : "yo",
-      "sent_at" : "2026-08-03T18:57:58.507Z",
-      "id" : "91333F0F-EB75-4814-A9B6-E6D46C271D8D",
-      "role" : "Customer",
-      "username" : "хх",
-      "sender_id" : "MERCURY-1W-NQXL-BOT6",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/embed\/avatars\/4.png"
-    },
-    {
-      "content" : "yo",
-      "sent_at" : "2026-08-03T18:58:04.121Z",
-      "id" : "B880A26F-DA8C-4094-ADF8-BA7EA5731D04",
-      "role" : "Customer",
-      "username" : "хх",
-      "sender_id" : "MERCURY-1W-NQXL-BOT6",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/embed\/avatars\/4.png"
+      "username" : "Exotic",
+      "sender_id" : "EXOTIC",
+      "avatar_url" : "https:\/\/cdn.discordapp.com\/avatars\/1251142575071428683\/f62df7cef92176d3442c1131c7dd90ac.png?size=1024"
     }
   ]
 }
