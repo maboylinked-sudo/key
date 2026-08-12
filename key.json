@@ -141,7 +141,7 @@
     "FAITH-WEEK": {
       "pause_used": false,
       "blacklist_reason": null,
-      "total_paused_seconds": 604800,
+      "total_paused_seconds": 1209600,
       "duration": "1w",
       "discord_id": "591922139221983243",
       "avatar_url": "https://cdn.discordapp.com/avatars/591922139221983243/86db965fae70194b931694296459d246.png?size=1024",
@@ -150,7 +150,7 @@
       "last_hwid_reset_at": "2026-08-03T12:36:59.270Z",
       "paused_at": null,
       "blacklisted": false,
-      "updated_at": "2026-08-03T12:36:59.270Z",
+      "updated_at": "2026-08-12T11:22:08.860Z",
       "activated_at": "2026-07-27T18:40:12.736Z",
       "role": "Customer",
       "hwid": "sha256:6759df0dbffe3ec25a1b52138c5eec1291808dbc76935e3f34ac6b8d1e40e2d9",
