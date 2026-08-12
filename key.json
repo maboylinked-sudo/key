@@ -383,6 +383,7 @@
   "settings": {
     "hwid_reset_cooldown": "3d",
     "maintenance": false,
-    "maintenance_message": "Mercury is currently undergoing maintenance."
+    "maintenance_message": "Mercury is currently undergoing maintenance.",
+    "download_url": "https://files.fm/u/4t9pj5unqb"
   }
 }
