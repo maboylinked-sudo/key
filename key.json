@@ -166,7 +166,7 @@
       "status": "active",
       "hwid": "sha256:a3da6e1ac104147a7173ea2a9d530638f0a61a718e2820a1858d32244d667dc7"
     },
-    "MERCURY-1MO-RS00-3DXV": {
+     "MERCURY-1MO-RS00-3DXV": {
       "pause_used": false,
       "status": "unused",
       "total_paused_seconds": 0,
@@ -175,7 +175,7 @@
       "created_at": "2026-08-05T15:27:30.417Z",
       "session_version": 1,
       "blacklisted": false,
-      "activated_at": null​,
+      "activated_at": null,
       "paused_at": null,
       "bound_at": null,
       "last_hwid_reset_at": null,
@@ -186,6 +186,7 @@
       "hwid": null,
       "blacklist_reason": null
     },
+
     "MERCURY-LIFETIME": {
       "pause_used": false,
       "status": "active",
