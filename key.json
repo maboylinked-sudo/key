@@ -102,12 +102,12 @@
       "blacklisted": false,
       "activated_at": "2026-08-09T18:45:14.023Z",
       "paused_at": null,
-      "updated_at": "2026-08-13T14:28:20.088Z",
+      "updated_at": "2026-08-15T09:33:07.539Z",
       "username": "vku",
       "last_hwid_reset_at": null,
       "hwid": "sha256:7a4a93ef7ac9d105a26e319d38af29349890d0e7be4c4cae7ef542e223c1bb9d",
       "role": "Customer",
-      "total_paused_seconds": 259282,
+      "total_paused_seconds": 518482,
       "bound_at": "2026-08-09T18:45:14.023Z",
       "duration": "3d"
     },
@@ -166,7 +166,7 @@
       "status": "active",
       "hwid": "sha256:a3da6e1ac104147a7173ea2a9d530638f0a61a718e2820a1858d32244d667dc7"
     },
-     "MERCURY-1MO-RS00-3DXV": {
+    "MERCURY-1MO-RS00-3DXV": {
       "pause_used": false,
       "status": "unused",
       "total_paused_seconds": 0,
@@ -186,7 +186,6 @@
       "hwid": null,
       "blacklist_reason": null
     },
-
     "MERCURY-LIFETIME": {
       "pause_used": false,
       "status": "active",
