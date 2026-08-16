@@ -215,15 +215,15 @@
     },
     "MERCURY-1MO-R3KU-4CFW": {
       "pause_used": true,
-      "status": "paused",
-      "total_paused_seconds": 0,
+      "status": "active",
+      "total_paused_seconds": 36056,
       "discord_id": "715856031061901383",
       "avatar_url": "https://cdn.discordapp.com/avatars/715856031061901383/a2668a0d2160f37cb95fd43bbec3d87e.png?size=1024",
       "created_at": "2026-08-13T13:27:55.078Z",
       "session_version": 1,
       "blacklisted": false,
       "activated_at": "2026-08-13T13:31:25.781Z",
-      "paused_at": "2026-08-15T17:33:31.823Z",
+      "paused_at": null,
       "last_hwid_reset_at": null,
       "hwid": "sha256:e97f0f166138a32bb064438732fb460dc36e2a2dc0c282f12ebca10fd751f71c",
       "bound_at": "2026-08-13T13:31:25.781Z",
@@ -239,7 +239,7 @@
       ],
       "role": "Customer",
       "blacklist_reason": null,
-      "updated_at": "2026-08-15T17:33:31.823Z"
+      "updated_at": "2026-08-16T03:34:28.183Z"
     },
     "MERCURY-3D-K2W2-0GP5": {
       "pause_used": false,
