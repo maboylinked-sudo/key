@@ -266,7 +266,8 @@
       "bound_at": "2026-08-09T16:30:58.507Z",
       "blacklist_reason": null,
       "status": "active",
-      "total_paused_seconds": 0
+      "total_paused_seconds": 432000,
+      "updated_at": "2026-08-17T12:22:15.097Z"
     },
     "MERCURY-1MO-SJKY-LMJI": {
       "pause_used": false,
