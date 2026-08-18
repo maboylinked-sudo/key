@@ -427,6 +427,26 @@
       "blacklist_reason": null,
       "status": "unused",
       "total_paused_seconds": 0
+    },
+    "MERCURY-1MO-FIM3-LIS8": {
+      "pause_used": false,
+      "duration": "1mo",
+      "sessions": [],
+      "discord_id": "978585109181653022",
+      "avatar_url": "https://cdn.discordapp.com/avatars/978585109181653022/91c45c8b785218652b6c1a6a4d888bfa.png?size=1024",
+      "created_at": "2026-08-18T12:44:42.599Z",
+      "session_version": 1,
+      "blacklisted": false,
+      "activated_at": null,
+      "paused_at": null,
+      "last_hwid_reset_at": null,
+      "hwid": null,
+      "bound_at": null,
+      "username": "Hatim",
+      "role": "Customer",
+      "blacklist_reason": null,
+      "status": "unused",
+      "total_paused_seconds": 0
     }
   },
   "settings": {
