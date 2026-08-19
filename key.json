@@ -474,6 +474,26 @@
       "blacklist_reason": null,
       "status": "unused",
       "total_paused_seconds": 0
+    },
+    "MERCURY-1MO-I5N1-X3X4": {
+      "pause_used": false,
+      "duration": "1mo",
+      "sessions": [],
+      "discord_id": "1061640923160772659",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1061640923160772659/a38cfefe136d2fa9060bd6e26747a766.png?size=1024",
+      "created_at": "2026-08-19T08:07:39.759Z",
+      "session_version": 1,
+      "blacklisted": false,
+      "activated_at": null,
+      "paused_at": null,
+      "last_hwid_reset_at": null,
+      "hwid": null,
+      "bound_at": null,
+      "username": "cris",
+      "role": "Customer",
+      "blacklist_reason": null,
+      "status": "unused",
+      "total_paused_seconds": 0
     }
   },
   "settings": {
