@@ -2,22 +2,13 @@
   "version" : 2,
   "messages" : [
     {
-      "content" : "anyone there",
-      "sent_at" : "2026-08-19T16:48:19.164Z",
-      "id" : "6AAA9B97-9C48-402B-9636-C4BABF41595A",
+      "content" : "anyohe ramk?",
+      "sent_at" : "2026-08-24T10:46:55.589Z",
+      "id" : "C06AFE3D-1274-4840-963F-EE2D7F2AFF3E",
       "role" : "Developer",
       "username" : "Exotic",
       "sender_id" : "EXOTIC",
       "avatar_url" : "https:\/\/cdn.discordapp.com\/avatars\/1251142575071428683\/f62df7cef92176d3442c1131c7dd90ac.png?size=1024"
-    },
-    {
-      "content" : "What’s the trigger setting",
-      "sent_at" : "2026-08-19T21:00:32.736Z",
-      "id" : "433628DE-2AF8-4D9E-813F-E4E2743E2F68",
-      "role" : "Customer",
-      "username" : "cris",
-      "sender_id" : "MERCURY-1MO-I5N1-X3X4",
-      "avatar_url" : "https:\/\/cdn.discordapp.com\/avatars\/1061640923160772659\/a38cfefe136d2fa9060bd6e26747a766.png?size=1024"
     }
   ]
 }
