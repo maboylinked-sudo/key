@@ -2,7 +2,7 @@
   "schema_version": 1,
   "keys": {
     "MERCURY-1W-EUJC-3SJZ": {
-      "pause_used": false,
+      "pause_used": true,
       "username": "iZhd",
       "total_paused_seconds": 0,
       "discord_id": "849749347117694989",
@@ -11,7 +11,7 @@
       "session_version": 1,
       "blacklisted": false,
       "activated_at": "2026-08-20T20:00:39.998Z",
-      "paused_at": null,
+      "paused_at": "2026-08-25T12:17:25.577Z",
       "last_hwid_reset_at": null,
       "hwid": "sha256:af60ce57d526d3f3635828a048dea42388739203719514f226fdb89dc93f68f7",
       "role": "Customer",
@@ -25,8 +25,9 @@
           "created_at": "2026-08-20T20:00:39.998Z"
         }
       ],
-      "status": "active",
-      "blacklist_reason": null
+      "status": "paused",
+      "blacklist_reason": null,
+      "updated_at": "2026-08-25T12:17:25.577Z"
     },
     "MERCURY-3D-K2W2-0GP5": {
       "pause_used": false,
