@@ -592,25 +592,19 @@
       "discord_id": null,
       "avatar_url": null,
       "created_at": "2026-08-30T11:48:12.199Z",
-      "session_version": 1,
+      "session_version": 2,
       "blacklisted": false,
       "activated_at": "2026-08-30T11:48:53.445Z",
       "paused_at": null,
-      "last_hwid_reset_at": null,
-      "hwid": "sha256:b104d8cf70bc64d2780434072a12484e154c2df9b9f2990b23d36357faa4a996",
-      "bound_at": "2026-08-30T11:48:53.445Z",
+      "last_hwid_reset_at": "2026-09-01T12:01:12.051Z",
+      "hwid": null,
+      "bound_at": null,
       "duration": "1mo",
       "username": "Customer",
-      "sessions": [
-        {
-          "created_at": "2026-08-30T11:48:53.445Z",
-          "id": "e2a4feb69ff7b8877aaefbed13a7102453c39f3be72e0e1d162cec8c2546a86d",
-          "client_version": "2.5.0",
-          "hwid": "sha256:b104d8cf70bc64d2780434072a12484e154c2df9b9f2990b23d36357faa4a996"
-        }
-      ],
+      "sessions": [],
       "role": "Customer",
-      "blacklist_reason": null
+      "blacklist_reason": null,
+      "updated_at": "2026-09-01T12:01:12.051Z"
     }
   },
   "settings": {
