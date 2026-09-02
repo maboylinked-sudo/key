@@ -271,30 +271,23 @@
     "MERCURY-1MO-BPWT-ANGV": {
       "pause_used": true,
       "total_paused_seconds": 974065,
-      "sessions": [
-        {
-          "created_at": "2026-08-11T17:38:56.489Z",
-          "id": "5577035e5f2597e64e0ee8a73fee0e432ddbba453aa0756b14c75ad6c8768855",
-          "client_version": "2.5.0",
-          "hwid": "sha256:925af644f5f2c7068f2e2dea47012bd2ffa482e2d79cb6b985a4f3f10f8036d2"
-        }
-      ],
+      "sessions": [],
       "duration": "1mo",
       "discord_id": "456478557556965376",
       "avatar_url": "https://cdn.discordapp.com/avatars/456478557556965376/2c73a76d90a3650aed274c972f4ac6d3.png?size=1024",
       "created_at": "2026-08-03T12:24:22.698Z",
-      "session_version": 5,
-      "last_hwid_reset_at": "2026-08-11T17:38:55.071Z",
+      "session_version": 6,
+      "last_hwid_reset_at": "2026-09-02T16:27:16.370Z",
       "paused_at": null,
       "blacklisted": false,
-      "bound_at": "2026-08-11T17:38:56.489Z",
-      "updated_at": "2026-08-31T10:08:02.614Z",
+      "bound_at": null,
+      "updated_at": "2026-09-02T16:27:16.370Z",
       "role": "Customer",
       "activated_at": "2026-08-03T15:20:22.571Z",
       "username": "Newbie",
       "blacklist_reason": null,
       "status": "active",
-      "hwid": "sha256:925af644f5f2c7068f2e2dea47012bd2ffa482e2d79cb6b985a4f3f10f8036d2"
+      "hwid": null
     },
     "MERCURY-1MO-R3KU-4CFW": {
       "pause_used": true,
