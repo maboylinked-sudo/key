@@ -617,8 +617,8 @@
       "pause_used": false,
       "duration": "2w",
       "sessions": [],
-      "discord_id": "849749347117694989",
-      "avatar_url": "https://cdn.discordapp.com/avatars/849749347117694989/7ad1c48f1bcc99f1b3c383d415529c36.png?size=1024",
+      "discord_id": "861417756733997057",
+      "avatar_url": "https://cdn.discordapp.com/avatars/861417756733997057/e27224bd2f33e9e5ec8f7070b161cc1d.png?size=1024",
       "created_at": "2026-09-01T12:11:03.539Z",
       "session_version": 1,
       "blacklisted": false,
@@ -627,11 +627,12 @@
       "last_hwid_reset_at": null,
       "hwid": null,
       "bound_at": null,
-      "username": "iZhd",
+      "username": "kozo",
       "role": "Customer",
       "blacklist_reason": null,
       "status": "unused",
-      "total_paused_seconds": 0
+      "total_paused_seconds": 0,
+      "updated_at": "2026-09-02T15:19:38.725Z"
     },
     "MERCURY-1W-9XXU-VI4Z": {
       "pause_used": false,
