@@ -664,26 +664,19 @@
     "MERCURY-1MO-SK63-ETMY": {
       "pause_used": true,
       "status": "active",
-      "sessions": [
-        {
-          "created_at": "2026-09-09T19:08:04.577Z",
-          "id": "deec1387603cc355eaa865484d73c95ee3dd6ee81cf4deafba1502a4a8ba535d",
-          "client_version": "2.5.0",
-          "hwid": "sha256:5015e25a4d192151ff3682c85a42c3193f371c0437b02c8aa727ce6ea86242c9"
-        }
-      ],
-      "updated_at": "2026-09-11T05:29:31.900Z",
+      "sessions": [],
+      "updated_at": "2026-09-11T07:28:11.339Z",
       "discord_id": "887251800477020160",
       "avatar_url": "https://cdn.discordapp.com/avatars/887251800477020160/d10e332ed83c3fefff656f73d0b4d732.png?size=1024",
       "created_at": "2026-09-04T09:18:22.080Z",
-      "session_version": 2,
+      "session_version": 3,
       "blacklisted": false,
       "activated_at": "2026-09-04T09:27:39.076Z",
       "paused_at": null,
-      "last_hwid_reset_at": "2026-09-09T19:07:35.661Z",
-      "hwid": "sha256:5015e25a4d192151ff3682c85a42c3193f371c0437b02c8aa727ce6ea86242c9",
+      "last_hwid_reset_at": "2026-09-11T07:28:11.339Z",
+      "hwid": null,
       "role": "Customer",
-      "bound_at": "2026-09-09T19:08:04.577Z",
+      "bound_at": null,
       "duration": "1mo",
       "blacklist_reason": null,
       "username": "Shima",
