@@ -663,7 +663,7 @@
     },
     "MERCURY-1MO-SK63-ETMY": {
       "pause_used": true,
-      "status": "paused",
+      "status": "active",
       "sessions": [
         {
           "created_at": "2026-09-09T19:08:04.577Z",
@@ -672,14 +672,14 @@
           "hwid": "sha256:5015e25a4d192151ff3682c85a42c3193f371c0437b02c8aa727ce6ea86242c9"
         }
       ],
-      "updated_at": "2026-09-10T20:34:00.970Z",
+      "updated_at": "2026-09-11T05:29:31.900Z",
       "discord_id": "887251800477020160",
       "avatar_url": "https://cdn.discordapp.com/avatars/887251800477020160/d10e332ed83c3fefff656f73d0b4d732.png?size=1024",
       "created_at": "2026-09-04T09:18:22.080Z",
       "session_version": 2,
       "blacklisted": false,
       "activated_at": "2026-09-04T09:27:39.076Z",
-      "paused_at": "2026-09-10T20:34:00.970Z",
+      "paused_at": null,
       "last_hwid_reset_at": "2026-09-09T19:07:35.661Z",
       "hwid": "sha256:5015e25a4d192151ff3682c85a42c3193f371c0437b02c8aa727ce6ea86242c9",
       "role": "Customer",
@@ -687,7 +687,7 @@
       "duration": "1mo",
       "blacklist_reason": null,
       "username": "Shima",
-      "total_paused_seconds": 0
+      "total_paused_seconds": 32130
     }
   },
   "settings": {
