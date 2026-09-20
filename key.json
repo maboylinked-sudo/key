@@ -663,31 +663,24 @@
     },
     "MERCURY-1MO-SK63-ETMY": {
       "pause_used": true,
-      "sessions": [
-        {
-          "hwid": "sha256:822ad58318b99163db38e653e4a94568f222e2d3cf3ddcf023ffa3051c8abe39",
-          "id": "5ce2a02e82972e325877aae2cd1ea6be27ab2b8b383186fab60231d5236ad402",
-          "client_version": "2.5.0",
-          "created_at": "2026-09-11T07:28:54.072Z"
-        }
-      ],
+      "sessions": [],
       "status": "active",
       "duration": "1mo",
       "discord_id": "887251800477020160",
       "avatar_url": "https://cdn.discordapp.com/avatars/887251800477020160/d10e332ed83c3fefff656f73d0b4d732.png?size=1024",
       "created_at": "2026-09-04T09:18:22.080Z",
-      "session_version": 3,
+      "session_version": 4,
       "blacklisted": false,
       "activated_at": "2026-09-04T09:27:39.076Z",
       "paused_at": null,
-      "updated_at": "2026-09-14T15:19:03.818Z",
+      "updated_at": "2026-09-20T16:40:53.570Z",
       "username": "Blood",
-      "last_hwid_reset_at": "2026-09-11T07:28:11.339Z",
-      "hwid": "sha256:822ad58318b99163db38e653e4a94568f222e2d3cf3ddcf023ffa3051c8abe39",
+      "last_hwid_reset_at": "2026-09-20T16:40:53.570Z",
+      "hwid": null,
       "role": "Customer",
       "blacklist_reason": null,
       "total_paused_seconds": 204930,
-      "bound_at": "2026-09-11T07:28:54.072Z"
+      "bound_at": null
     },
     "MERCURY-1D-CDA8-E2CR": {
       "pause_used": false,
