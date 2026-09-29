@@ -251,30 +251,23 @@
     "MERCURY-1MO-TQX2-ZTAS": {
       "pause_used": true,
       "duration": "1mo",
-      "sessions": [
-        {
-          "hwid": "sha256:cb9d82ae835f7aa7592f2374060f12fd1ee3d76a6919c78b15cdfb480346b7ae",
-          "id": "461087da829324ea9922bcfc6bd4f09090b3c464e78df091052d7612e936522e",
-          "client_version": "2.5.0",
-          "created_at": "2026-09-09T10:48:41.868Z"
-        }
-      ],
+      "sessions": [],
       "discord_id": "1099301052274192384",
       "avatar_url": "https://cdn.discordapp.com/avatars/1099301052274192384/d09ef3cb2e29e1522c9c7418bc132001.png?size=1024",
       "created_at": "2026-09-09T10:02:34.284Z",
-      "session_version": 1,
+      "session_version": 2,
       "blacklisted": false,
       "activated_at": "2026-09-09T10:48:41.868Z",
       "paused_at": "2026-09-29T16:09:26.480Z",
-      "last_hwid_reset_at": null,
+      "last_hwid_reset_at": "2026-09-29T16:09:34.202Z",
       "username": "HeheimMrCat",
-      "hwid": "sha256:cb9d82ae835f7aa7592f2374060f12fd1ee3d76a6919c78b15cdfb480346b7ae",
+      "hwid": null,
       "role": "Customer",
-      "bound_at": "2026-09-09T10:48:41.868Z",
+      "bound_at": null,
       "blacklist_reason": null,
       "status": "paused",
       "total_paused_seconds": 0,
-      "updated_at": "2026-09-29T16:09:26.480Z"
+      "updated_at": "2026-09-29T16:09:34.202Z"
     },
     "MERCURY-5D-OUG0-X30E": {
       "pause_used": false,
