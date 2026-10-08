@@ -702,12 +702,12 @@
       "activated_at": "2026-09-04T09:27:39.076Z",
       "paused_at": null,
       "bound_at": "2026-09-20T17:13:47.452Z",
-      "updated_at": "2026-09-20T16:40:53.570Z",
+      "updated_at": "2026-10-08T19:10:18.122Z",
       "username": "Blood",
       "last_hwid_reset_at": "2026-09-20T16:40:53.570Z",
       "duration": "1mo",
       "blacklist_reason": null,
-      "total_paused_seconds": 204930,
+      "total_paused_seconds": 636930,
       "hwid": "sha256:822ad58318b99163db38e653e4a94568f222e2d3cf3ddcf023ffa3051c8abe39"
     },
     "MERCURY-1D-CDA8-E2CR": {
