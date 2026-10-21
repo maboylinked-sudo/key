@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "keys": {
-  ​  "MERCURY-1MO-CAG8-I0HV": {
+    "MERCURY-1MO-CAG8-I0HV": {
       "pause_used": false,
       "status": "active",
       "total_paused_seconds": 0,
@@ -93,11 +93,11 @@
           "id": "b83e54a8f73ae1f6f4b89afe28b5b829fbe1709dfd94eb0cc306bc2aa58685a2",
           "client_version": "2.5.0",
           "hwid": "sha256:e39749beee2ed19d6eaf90dc99adc32c20b66e7222f4eeb4f97e54248842292d"
-        ​}
+        }
       ],
       "duration": "1mo"
     },
- ​   "EXOTIC": {
+    "EXOTIC": {
       "pause_used": true,
       "total_paused_seconds": 19,
       "sessions": [
@@ -190,10 +190,10 @@
           "id": "356867fd2b711c2a8e7e2caded2328bbe2b159c3f9366155bb8605db827a2656",
           "client_version": "2.5.0",
           "created_at": "2026-10-17T14:37:53.663Z"
-     ​   }
+        }
       ]
     },
-   ​ "MERCURY-LIFETIME": {
+    "MERCURY-LIFETIME": {
       "pause_used": false,
       "hwid": "sha256:40403671666d124f185baac97b4792e12cd10bee34b118ad866a020dbbce4d7a",
       "sessions": [
@@ -243,7 +243,7 @@
           "id": "5ce2a02e82972e325877aae2cd1ea6be27ab2b8b383186fab60231d5236ad402",
           "client_version": "2.5.0",
           "hwid": "sha256:822ad58318b99163db38e653e4a94568f222e2d3cf3ddcf023ffa3051c8abe39"
-       ​ }
+        }
       ],
       "status": "active",
       "username": "Blood"
