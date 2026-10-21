@@ -173,25 +173,19 @@
       "discord_id": "756289758925422732",
       "avatar_url": "https://cdn.discordapp.com/avatars/756289758925422732/1142dfeeab32c7d2dcb16c88a5ff6b61.png?size=1024",
       "created_at": "2026-10-17T14:28:38.555Z",
-      "session_version": 1,
+      "session_version": 2,
       "blacklisted": false,
       "activated_at": "2026-10-17T14:37:53.663Z",
       "paused_at": null,
-      "last_hwid_reset_at": null,
-      "hwid": "sha256:61d67e8e7a71a35cb5b723ad7b8b5ddb2c5c8e45325503731cb1ec74d66418c5",
-      "bound_at": "2026-10-17T14:37:53.663Z",
+      "last_hwid_reset_at": "2026-10-21T17:25:16.620Z",
+      "hwid": null,
+      "bound_at": null,
       "duration": "1mo",
       "username": "Cr®",
       "total_paused_seconds": 0,
       "status": "active",
-      "sessions": [
-        {
-          "hwid": "sha256:61d67e8e7a71a35cb5b723ad7b8b5ddb2c5c8e45325503731cb1ec74d66418c5",
-          "id": "356867fd2b711c2a8e7e2caded2328bbe2b159c3f9366155bb8605db827a2656",
-          "client_version": "2.5.0",
-          "created_at": "2026-10-17T14:37:53.663Z"
-        }
-      ]
+      "sessions": [],
+      "updated_at": "2026-10-21T17:25:16.620Z"
     },
     "MERCURY-LIFETIME": {
       "pause_used": false,
