@@ -81,12 +81,12 @@
       "activated_at": "2026-08-03T15:20:22.571Z",
       "last_hwid_reset_at": "2026-09-02T16:27:16.370Z",
       "paused_at": null,
-      "updated_at": "2026-09-12T16:11:36.610Z",
+      "updated_at": "2026-10-21T14:29:50.097Z",
       "username": "Newbie",
       "role": "Customer",
       "hwid": "sha256:e39749beee2ed19d6eaf90dc99adc32c20b66e7222f4eeb4f97e54248842292d",
       "blacklisted": false,
-      "total_paused_seconds": 3998065,
+      "total_paused_seconds": 6590065,
       "sessions": [
         {
           "created_at": "2026-09-02T16:27:22.838Z",
