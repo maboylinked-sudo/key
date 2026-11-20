@@ -223,7 +223,7 @@
     },
     "MERCURY-1MO-BPWT-ANGV": {
       "pause_used": true,
-      "total_paused_seconds": 6590065,
+      "total_paused_seconds": 7454065,
       "sessions": [
         {
           "hwid": "sha256:e39749beee2ed19d6eaf90dc99adc32c20b66e7222f4eeb4f97e54248842292d",
@@ -241,7 +241,7 @@
       "last_hwid_reset_at": "2026-09-02T16:27:16.370Z",
       "paused_at": null,
       "bound_at": "2026-09-02T16:27:22.838Z",
-      "updated_at": "2026-10-21T14:29:50.097Z",
+      "updated_at": "2026-11-20T12:42:18.240Z",
       "username": "Newbie",
       "role": "Customer",
       "hwid": "sha256:e39749beee2ed19d6eaf90dc99adc32c20b66e7222f4eeb4f97e54248842292d",
